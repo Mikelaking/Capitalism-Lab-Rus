@@ -4373,3 +4373,39 @@ Land Price Index|
 Donations to Rival Political Parties|
 Пожертвования конкур. полит. партиям|
 ~
+Software Revenue Index|
+Индекс дохода от ПО|
+~
+AI Acquires Private Companies|
+ИИ приобретает частные компании|
+~
+Occasionally|
+Время от врем.|
+~
+Will AI Tech Companies Go IPO?|
+Будут ли ИИ техн. компании выходить на IPO?|
+~
+Max AI Software and Internet Companies|
+Макс ИИ ПО и интернет компаний|
+~
+Internet Revenue Index|
+Индекс интернет-доходов|
+~
+Talent System|
+Система талантов|
+~
+Full|
+Полная|
+~
+Simplified|
+Упрощённая|
+~
+Greatly Simplified|
+Очень упрощённая|
+~
+More Talents|
+Больше талантов|
+~
+more|
+больше|
+~
