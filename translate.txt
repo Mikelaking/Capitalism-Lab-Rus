@@ -893,7 +893,7 @@ None|
 Нет|
 ~
 Very Low|
-Очень низко|
+Оч. низко|
 ~
 Low|
 Низко|
@@ -902,10 +902,10 @@ Moderate|
 Средне|
 ~
 High|
-Высоко|
+Выс.|
 ~
 Very High|
-Очень высоко|
+Оч. выс.|
 ~
 Never|
 Никогда|
@@ -1760,19 +1760,19 @@ Very Loose|
 Сильно стимулирующая|
 ~
 Loose|
-Стимулирующая|
+Стимулирующий|
 ~
 Slightly Loose|
 Слегка стимулирующая|
 ~
 Normal|
-Нормальная|
+Нормально|
 ~
 Slightly Tight|
 Слегка сдерживающая|
 ~
 Tight|
-Сдерживающая|
+Сдерживающий|
 ~
 Very Tight|
 Сильно сдерживающая|
@@ -4383,10 +4383,10 @@ Occasionally|
 Время от врем.|
 ~
 Will AI Tech Companies Go IPO?|
-Будут ли ИИ техн. компании выходить на IPO?|
+Будут ли ИИ-техн. компании выходить на ИПО?|
 ~
 Max AI Software and Internet Companies|
-Макс ИИ ПО и интернет компаний|
+Макс ПО и интернет-компаний ИИ|
 ~
 Internet Revenue Index|
 Индекс интернет-доходов|
@@ -4408,4 +4408,79 @@ More Talents|
 ~
 more|
 больше|
+~
+Competitors|
+Соперники|
+~
+Insurance|
+Страхование|
+~
+Global Stock|
+Глоб. биржа|
+~
+Aggressiveness of AI Banks and Insurance Co.|
+Агрессивность ИИ банков и страхование комп.|
+~
+Number of AI Companies Focused on Banking|
+Кол-во компаний ИИ, ориент. на банк. дело|
+~
+Tendency of AI to Set Up Banks|
+Тенденция ИИ к созданию банков|
+~
+Number of AI Companies Focused on Insurance|
+Кол-во компаний ИИ, ориент. на страхование|
+~
+Tendency of AI to Set Up Insurance Companies|
+Тенденция ИИ создавать страховые компании|
+~
+Feature: Bank|
+Особенность: Банк|
+~
+Base Loan Interest Rate|
+Базовая процентная ставка по кредиту|
+~
+Maximum Loans-to-Assets Ratio:|
+Макс-ное соотн. займов к активам:|
+~
+Required Bank Capital Ratio|
+Треб. коэфф. дост. капитала банка|
+~
+Savings Rate Modifier|
+Модификатор нормы сбережений|
+~
+Initial Net Interest Spread|
+Первоначальный чист. процентный спрэд|
+~
+Corporate Deposit Cap|
+Корпоративный депозитный капитал|
+~
+Economy's Impact on Loan Defaults|
+Влияние экономики на дефолт по кредиту|
+~
+Feature: Insurance Business|
+Особенность: Страховой бизнес|
+~
+Insurance Premiums Modifier|
+Модификатор страховых взносов|
+~
+Insurance Claims|
+Страховые возмещения|
+~
+Feature: Bond|
+Особенность: Облигации|
+~
+Percentage of Player Capital Funded by Bond|
+Процент капитала игрока, финансируемый облигации|
+~
+Bond Credit Standard|
+Кредитный стандарт облигаций|
+~
+Bond Issue Limit|
+Лимит эмиссии облигаций|
+~
+Feature: Global Stock Market|
+Особенность: Глобальный фондовый рынок|
+~
+Initial Stock Price Modifier|
+Модификатор начальной цены акций|
 ~
