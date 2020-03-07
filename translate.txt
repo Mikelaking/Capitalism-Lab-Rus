@@ -3666,7 +3666,7 @@ Photo Editor|
 Фоторедактор|
 ~
 Presentation Software|
-Презентационная программа|
+Презентация (программа)|
 ~
 Sound Editor|
 Аудиоредактор|
@@ -3687,16 +3687,16 @@ Cumulative Performance|
 Совокупная эффективность|
 ~
 1-year Return|
-1-годовой доход-ть|
+1-летняя доход-ть|
 ~
-1-year Return|
-3-годовой доход-ть|
+3-year Return|
+3-летняя доход-ть|
 ~
-1-year Return|
-5-годовой доход-ть|
+5-year Return|
+5-летняя доход-ть|
 ~
-1-year Return|
-10-годовой доход-ть|
+10-year Return|
+10-летняя доход-ть|
 ~
 Graphs|
 Графики|
@@ -3969,7 +3969,7 @@ Service Fees|
 3D Графика|
 ~
 3D Modeling Engine|
-3D Моделирование движок|
+3D Моделир-ние движ.|
 ~
 Animation Engine|
 Анимационный движок|
@@ -3981,19 +3981,19 @@ Audio Tech|
 Аудио|
 ~
 Backup Tech|
-Резервное копирование|
+Резервное копир-ние|
 ~
 CAD Engine|
 CAD движок|
 ~
 Computer OS Core|
-Компьютерная ОС ядро|
+Компьют. ОС ядро|
 ~
 Computer OS Display|
-Компьютерная ОС дисплей|
+Компьют. ОС дисплей|
 ~
 Computer OS Input|
-Компьютерная ОС ввод|
+Компьют. ОС ввод|
 ~
 Database Tech|
 База данных|
@@ -4483,4 +4483,253 @@ Feature: Global Stock Market|
 ~
 Initial Stock Price Modifier|
 Модификатор начальной цены акций|
+~
+Banking and Finance|
+Банк. дело и финансы|
+~
+Bank Headquarters|
+Банк. главный офис|
+~
+Bank Branch|
+Отделение банка|
+~
+Insurance Headquarters|
+Страховой главный офис|
+~
+Insurance Front Office|
+Страховая контора|
+~
+Overview|
+Обзор|
+~
+Insurances|
+Страховки|
+~
+Competition|
+Конкуренция|
+~
+From All Front Offices, Incuding All Insurance Types|
+Из всех контор, включая все виды страхования|
+~
+Insurance Premiums (past 365 days)|
+Страховые взносы (за посл. 365 дней)|
+~
+Total Customers|
+Всего клиентов|
+~
+Insurance Brand Rating|
+Рейтинг страхового бренда|
+~
+Insurance Front Offices|
+Страховые конторы|
+~
+Insurance Premiums Incomes|
+Доходы страховых взносов|
+~
+Return on Equity|
+Рентаб. собств. капитала|
+~
+Year Average|
+летняя средняя|
+~
+All Insurance Types|
+Все виды страх-ния|
+~
+Life Insurance|
+Страх-ние жизни|
+~
+Home Insurance|
+Страх-ние жилья|
+~
+Car Insurance|
+Страх-ние авто|
+~
+Financial Performance (past 365 days)|
+Финансовые показатели (за посл. 365 дней)|
+~
+Insurance Premiums|
+Страховые взносы|
+~
+Claims Reserves|
+Резервы возмещений|
+~
+Claims|
+Возмещения|
+~
+Operating Expenses|
+Операционные расходы|
+~
+Underwriting Profit|
+Андеррайтинг прибыли|
+~
+Investment Profit|
+Инвестиц-ная прибыль|
+~
+Premium Price Level|
+Уровень цен взносов|
+~
+Average Premium|
+Средний взнос|
+~
+Number of Customers|
+Количество клиентов|
+~
+Premiums from New Policies|
+Взносы от новых полисов|
+~
+Premiums from Existing Policies|
+Взносы от имеющихся полисов|
+~
+Total Insurance Premiums|
+Всего страховые взносы|
+~
+Premiums - New Policies|
+Взносы - Новые полисы|
+~
+Premiums - Existing Policies|
+Взносы - Имеющиеся полисы|
+~
+# of Offices|
+# офисов|
+~
+Price Level|
+Уровень цены|
+~
+Service Quality|
+Кач. обслуж-ния|
+~
+Brand|
+Бренд|
+~
+Market Share (All Cities)|
+Доля рынка (все города)|
+~
+Income Statement|
+Прибыль и убытки|
+~
+Balance Sheet|
+Балансовый отчёт|
+~
+Fund Transfer|
+Перевод капитала|
+~
+Transfer Log|
+Журнал переводов|
+~
+Premium Income|
+Взносовая прибыль|
+~
+Investment Income|
+Инвестиционная прибыль|
+~
+GROSS PROFIT|
+ОСНОВНЫЕ РАСХОДЫ|
+~
+Salaries Expense (HQ)|
+Расходы на зарплату (Штаб)|
+~
+Salaries Expense (Branches)|
+Расходы на зарплату (Отделения)|
+~
+Operating Overhead (HQ)|
+Операц. накладные расходы (Штаб)|
+~
+Operating Overhead (Branches)|
+Операц. накл. расходы (Отделения)|
+~
+Stock Assets|
+Фондовые активы|
+~
+Bond Assets|
+Облигационные активы|
+~
+NET ASSETS|
+ЧИСТЫЕ АКТИВЫ|
+~
+Equity Capital|
+Акционерный капитал|
+~
+Insurance HQ|
+Страх. штаб|
+~
+Insur. Revenue|
+Страх. доход|
+~
+Insur. Profit|
+Страх. прибыль|
+~
+Consolidated Insurance Company Income Statement|
+Консолидированный отчёт о прибылях и убытках страховой компании|
+~
+Transfer to Insurance Company|
+Перевод в страховую компанию|
+~
+Transfer from Insurance Company|
+Перевод из страховой компании|
+~
+Transferable Cash|
+Переводимые деньги|
+~
+Insurance Company|
+Страховая компания|
+~
+Transfer To Insurance Company|
+Переводы в страховую компанию|
+~
+Transfer From Insurance Company|
+Переводы из страховой компании|
+~
+Net Total|
+Чистый итог|
+~
+Digital Guide|
+Цифровой справ.|
+~
+SOFTWARE GUIDE|
+ПО СПРАВОЧНИК|
+~
+INTERNET GUIDE|
+ИНТЕРНЕТ СПРАВОЧНИК|
+~
+Missing Required Tech|
+Отсут-ет необх. техн.|
+~
+Your Tech|
+Ваша техн.|
+~
+Required|
+Необх-мая|
+~
+Highest|
+Наиб-шая|
+~
+Operating System|
+Операционная система|
+~
+Audio Software|
+Аудио ПО|
+~
+Computer Security|
+Комп. безопасность|
+~
+Graphic Design Software|
+Графич. дизайн ПО|
+~
+Office Software|
+Офисное ПО|
+~
+Utility Software|
+Утилиты ПО|
+~
+Video Software|
+Видео ПО|
+~
+Hide Inactive|
+Скрыть неактивные|
+~
+Months|
+месяцов|
+~
+Yellow lines denote new releases|
+Жёлт. линии обозн. нов. релизы|
 ~

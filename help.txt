@@ -2631,11 +2631,11 @@ The brand rating of the insurance company in this city. To increase it, select t
 ~
 INPRICE
 Premium Price Level
-The price level of the insurance premiums. It ranges from 10 to 200; 100 is normal. A lower price level makes the insurance products more competitive but it also increases the ratio of claims to received premiums, resulting in a lower profit margin. 
+Уровень цен страховых взносов. Колеблется от 10 до 200; 100 это нормально. Более низкий уровень цен делает страховые продукты более конкурентоспособными, но также увеличивает отношение требований к полученным взносам, что приводит к снижению прибыли. 
 ~
 INAVGPRI
 Average Premium  
-The average amount of insurance premium this company has received per customer annually. 
+Средняя сумма страхового взноса, которую эта компания получает на одного клиента в год. 
 ~
 INFINPER
 Financial Performance
@@ -2643,23 +2643,23 @@ The financial performance of this insurance company in the past 12 months.
 ~
 INPREMIU
 Insurance Premiums
-Insurance premium incomes in this past 365 days. 
+Доходы от страховых взносов за последние 365 дней. 
 ~
 INPREMI1
-Premiums from New Insurance Policies
-Insurance premium incomes from new insurance policies in this past 365 days. 
+Взносы от новых страховых полисов
+Доходы страховых взносов от новых страховых полисов за последние 365 дней. 
 ~
 INPREMI2
-Premiums from Existing Insurance Policies
-Insurance premium incomes from existing insurance policies in this past 365 days. 
+Взносы от имеющихся страховых полисов
+Доходы страховых взносов от имеющихся страховых полисов за последние 365 дней. 
 ~
 INPREMI3
 Total Insurance Premiums
-Total insurance premium incomes in this past 365 days. 
+Общий доход страховой взносов за последние 365 дней. 
 ~
 INCLAIM
 Claims
-Total claims paid to customers in the past 365 days. 
+Всего возмещений выплачено клиентам за последние 365 дней. 
 ~
 OM_WSAD
 WSAD Keys
@@ -2830,12 +2830,12 @@ Auto Manage Commercial Buildings
 When this is enabled, the computer will automatically manage all of the corporation's existing commercial buildings. It will set the commercial buildings' rents based on your preference which you may customize with the "Rent" setting below. 
 ~
 TRANCASH
-Transferable Cash 
-The maximum amount of cash that you are allowed to transfer from the bank to your corporation. On its balance sheet, the bank's net assets must be greater than the required bank capital. The capital requirement set by the central bank. 
+Переводимые деньги 
+Максимальная сумма денежных средств, которую вам разрешено переводить из банка в вашу корпорацию. На балансовом отчёте чистый актив банка должен быть больше, чем необходимый банковский капитал. Требование к капиталу устанавливается центральным банком. 
 ~
 TRANMODE
-Transfer Mode
-You may change the transfer mode - whether it is to transfer funds from the bank to its parent corporation, or the other way round, by clicking on the Arrow icon.
+Режим перевода
+Вы можете изменить режим перевода - будь то перевод средств из банка в материнскую корпорацию или наоборот, нажав на значок стрелки.
 ~
 MARKETSH
 Market Share Window 
@@ -2859,27 +2859,27 @@ You may transfer funds from the parent company to the bank's balance sheet or vi
 ~
 INSUINCO
 Consolidated Insurance Company Income Statement
-It consolidates the financial data from the HQ and all its front offices. 
+Он объединяет финансовые данные из главного офиса и всех её контор. 
 ~
 INSUASSE
-Insurance Company Assets
-An insurance company has its own balance sheet and its assets are separate from the parent company's. 
+Активы страховой компании
+Страховая компания имеет собственный баланс, и её активы отделены от материнской компании. 
 ~
 IFUNDTRA
 Fund Transfer 
-You may transfer funds from the parent company to the insurance company's balance sheet or vice versa. 
+Вы можете перевести капитал из материнской компании на баланс страховой компании или наоборот. 
 ~
 PREMRESE
 Claims Reserves
-The claims reserves represent the money which must be held by the insurance company so as to be able to meet all future claims arising from policies written in the past.
+Резервы по возмещениям представляют собой деньги, которые должны храниться страховой компанией, чтобы иметь возможность удовлетворить все будущие возмещения, вытекающие из полисов, выданных в прошлом.
 ~
 UWPROFIT
 Underwriting Profit
-The profit from underwriting insurance policies. It equals to the amount of premiums received, less insurance claims and operating expenses. 
+Прибыль от андеррайтинга страховых полисов. Он равен сумме полученных взносов, за вычетом страховых возмещений и операционных расходов. 
 ~
 IVPROFIT
-Investment Profit
-The profits from investments in stocks, bonds, and bank deposits. 
+Инвестиционная прибыль
+Прибыль от инвестиций в акции, облигации и банковские депозиты. 
 ~
 STOPDEPO
 Stop Bank Deposits
@@ -3002,20 +3002,20 @@ No Notification
 When the bank capital ratio is too low, the game will stop issuing loans. It will not notify you. 
 ~
 ITRANCAS
-Transferable Cash 
-The maximum amount of cash that you are allowed to transfer from the insurance company to your corporation. 
+Переводимые деньги 
+Максимальная сумма денежных средств, которую вам разрешено перевести из страховой компании в вашу корпорацию. 
 ~
 ITRANMOD
-Transfer Mode
-You may change the transfer mode - whether it is to transfer funds from the insurance company to its parent corporation, or the other way round, by clicking on the Arrow icon.
+Режим перевода
+Вы можете изменить режим перевода - будь то перевод средств из страховой компании в ее материнскую корпорацию или наоборот, нажав на значок стрелки.
 ~
 BANKROE
-Return on Equity 
+Рентабельность собственного капитала 
 Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital. ROE is considered a measure of how effectively the bank is using its capital to generate profits. (The change from 12 months ago is displayed in brackets.)
 ~
 INSUROE
-Return on Equity 
-Return on Equity (ROE) is calculated by dividing the insurance company's Net Profit by its Equity Capital. It is capped to a range from -50% to 50% for the purpose of calculating the average ROE.  
+Рентабельность собственного капитала 
+Рентабельность собственного капитала (ROE) рассчитывается путем деления чистой прибыли страховой компании на её собственный капитал. Он ограничен диапазоном от -50% до 50% с целью расчёта средней ROE.  
 ~
 SWITMODE
 Переключить режим отображения (горячая клавиша: 'A')
@@ -3042,12 +3042,12 @@ Interest Rate
 The interest rate for 1 Year Time Deposit.
 ~
 BKABRAND
-Average Brand Rating 
-The average brand rating of the bank in all the cities. 
+Средний рейтинг бренда 
+Средний рейтинг бренда банка по всем городам. 
 ~
 INABRAND
-Average Brand Rating 
-The average brand rating of the insurance company in all the cities. 
+Средний рейтинг бренда 
+Средний рейтинг бренда страховой компании по всем городам. 
 ~
 DEPOALL
 All Deposits 
