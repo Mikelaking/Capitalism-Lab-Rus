@@ -419,12 +419,12 @@ Buy Stock
 You can only trade stock once a day in a Challenge Game.  
 ~
 IN_SM_OI
-Left-click to increase. (hotkey: '+' or '=')
-Right-click to increase at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Левая кнопка мыши, чтобы увеличить. (горячая клавиша: '+' или '=')
+Правая кнопка мыши для увеличивания с большей скоростью. Удерживайте клавишу SHIFT при нажимани для 10X скорости.
 ~
 IN_SM_OD
-Left-click to decrease. (hotkey: '-' )
-Right-click to decrease at a higher rate. Hold SHIFT key while clicking for 10X speed.
+Левая кнопка мыши, чтобы уменьшить. (горячая клавиша: '-' )
+Правая кнопка мыши для уменьшения с большей скоростью. Удерживайте клавишу SHIFT при нажимани для 10X скорости.
 ~
 IN_SM_BI
 Buy more stock
@@ -743,7 +743,7 @@ Left-click to decrease. Right-click to decrease at a higher rate
 `
 ~
 IFH_DC
-Confirm the new dividend
+Подтвердите новые дивиденды
 `
 ~
 IFH_DN
@@ -1965,11 +1965,11 @@ Access the Capitalism Lab MOD forum to download user-created MODs.
 ~
 DIVPAYO
 Dividend Payout Ratio 
-It is the percentage of earnings paid to shareholders in dividends. (Dividend Payout Ratio is calculated based on earnings per share, whereas Dividend Yield is calculated based on the stock price.) 
+Это процент от прибыли, выплачиваемый акционерам в виде дивидендов. (Коэффициент выплаты дивидендов рассчитывается на основе прибыли на акцию, тогда как доходность дивидендов рассчитывается на основе цены акций). 
 ~
 DIVYIELD
-Actual Dividend Yield 
-This is a percentage calculated by dividing the latest dividend paid by the stock price. The greater the dividend yield, the more cash is returned to each investor when the dividend is paid out each year.
+Актуальная дивидендная доходность 
+Этот процент рассчитывается путём деления последних выплаченных дивидендов на цену акций. Чем больше дивидендная доходность, тем больше денег возвращается каждому инвестору при выплате дивидендов каждый год.
 ~
 REDIRECT 
 Redirect Supply Links 
@@ -2546,7 +2546,7 @@ Bank Brand Rating
 The brand rating of the bank in this city. To increase it, select the "Marketing" tab and set up advertising. 
 ~
 LOAN_DEF
-The amount of loan defaults in the past 12 months.
+Сумма дефолтов по займам за последние 12 месяцев.
 `
 ~
 BANKFINA
@@ -2579,27 +2579,27 @@ The brand rating of the bank in this city. To increase it, select the "Marketing
 ~
 LOANALL
 All Loans
-Select this to show all loans that have been made to local companies and corporations. The loans are grouped under different credit ratings and the total amount of each group is shown.  
+Нажмите, чтобы показать все займы, которые были предоставлены местным компаниям и корпорациям. Вклады сгруппированы под разными кредитными рейтингами, и показана общая сумма каждой группы.  
 ~
 LOANGRP
 Loans to Corporations
-Select this to show a list of loans that have been made to corporations. Note that these loans, together with loans to local companies, constitute the loan totals shown on the [All Loans] page. 
+Нажмите, чтобы показать список займов, которые были предоставлены корпорациям. Обратите внимание, что эти займы вместе с займами местным компаниям составляют итоговые суммы займов, показанные на странице [Все займы]. 
 ~
 DEFALL
 All Defaults
-Select this to show all bad loans that have been defaulted. 
+Выберите это, чтобы показать все безнадёжные вклады, которые стали дефолтами. 
 ~
 DEFGRP
 Defaults by Corporations
-Select this to show a list of loans made to corporations that have been defaulted. Note that these loan defaults, together with those by local companies, constitute the loan defaults shown on the [All Defaults] page. 
+Нажмите, чтобы показать список займов, выданных корпорациям, которые не выполнили свои обязательства. Обратите внимание, что эти дефолты займов, вместе с местными компаниями, составляют дефолты займов, показанные на странице [Все дефолты]. 
 ~
 DEPOBRAN
-Deposits from all branches of this bank 
-Select this to show all customer deposits made via all the branches of this bank.
+Вклады во всех филиалах этого банка 
+Нажмите, чтобы показать все депозиты клиентов, сделанные через все филиалы этого банка.
 ~
 DEPOHQ
-Deposits from the headquarters 
-Select this to show a list of deposits made by corporations and game persons via the bank headquarters.  
+Вклады в штаб-квартире 
+Нажмите, чтобы отобразить список депозитов, сделанных корпорациями и игроками через штаб-квартиру банка.  
 ~
 INSUFINA
 Financial Statements 
@@ -2710,8 +2710,8 @@ Client Deposits
 The figure shows the total client deposits and the year-over-year growth rate. The graph shows the deposits over the past 36 months. 
 ~
 DEPOSHQ
-Client Deposits from All Branches of This Bank 
-The figure shows the total client deposits from all branches of this bank and the year-over-year growth rate. The graph shows the deposits over the past 36 months. 
+Вклады клиентов из всех отделений этого банка 
+На рисунке показана общая сумма депозитов клиентов во всех филиалах этого банка и темпы роста в годовом исчислении. На графике показаны депозиты за последние 36 месяцев. 
 ~
 ADVERT
 Advertisement 
@@ -2786,28 +2786,28 @@ Operating Expenses Report
 View the operating expenses of this insurance office. 
 ~
 LOANIIAN
-Projected Annual Total Loan Interest Incomes
-This figure is projected by multiplying the latest monthly loan interest incomes by 12 months. The same for the other 2 figures below. To see the real historical total net interest incomes, please view the Financial report. 
+Прогнозируемый годовой доход по займам
+Это число прогнозируется путем умножения последних ежемесячных процентных доходов по займам на 12 месяцев. То же самое для других 2 чисел ниже. Чтобы увидеть реальный исторический общий чистый процентный доход, просмотрите Финансовый отчет. 
 ~
 LOANCRED
-Loan Credit Rating 
-Loans are categorized based on the borrowers' credit ratings which indicate the financial health of the borrowers. AAA is the best credit rating. C is the poorest credit rating.  
+Кредитный рейтинг займов 
+Займы классифицируются на основе кредитных рейтингов заёмщиков, которые указывают на финансовое состояние заёмщиков. AAA - лучший кредитный рейтинг. C - самый плохой кредитный рейтинг.  
 ~
 LOANINT
-Loan Interest Rate
-Borrowers with good credit ratings can obtain loans with lower interest rates. Conversely, borrowers with poor credit ratings have the higher default risks, thus the bank charges higher interest rates to justify the risks.  
+Процентная ставка по займу
+Заемщики с хорошими кредитными рейтингами могут получать займы с более низкими процентными ставками. И наоборот, заемщики с плохим кредитным рейтингом имеют более высокие риски дефолта, поэтому банк взимает более высокие процентные ставки, чтобы оправдать риски.  
 ~
 LOANALLO
-New Loans Allocation
-At the initial setting, a bank lends money evenly to borrowers of different credit ratings (20% each). When you increase the allocation to borrowers of poorer credit ratings, the bank will receive higher interest income, but the loan default rate will also increase as a result.
+Распределение новых займов
+При первоначальной настройке банк равномерно предоставляет деньги заемщикам с разными кредитными рейтингами (по 20% каждый). Когда вы увеличиваете отчисления заемщикам с более низкими кредитными рейтингами, банк будет получать более высокий процентный доход, но в результате также увеличится ставка дефолта по займу.
 ~
 LOANAII
-Projected Annual Interest Incomes 
-The bank collects interest payments from loan borrowers. Loan interests are the main incomes of the bank. 
+Прогнозируемые годовые процентные доходы 
+Банк собирает процентные платежи с заемщиков. Проценты по займу являются основными доходами банка. 
 ~
 LOANIITO
-Projected Annual Total Loan Interest Incomes 
-This figure is projected by multiplying the latest monthly loan interest incomes by 12 months. The same for the other 2 figures below. To see the real historical total net interest incomes, please view the Financial report. 
+Прогнозируемый годовой доход по займам 
+Это число прогнозируется путем умножения последних ежемесячных процентных доходов по займам на 12 месяцев. То же самое для других 2 чисел ниже. Чтобы увидеть реальный исторический общий чистый процентный доход, просмотрите Финансовый отчет. 
 ~
 REALGDPG
 Real GDP Growth
@@ -2843,23 +2843,23 @@ Click here to show/hide the window that shows the Market Share of the current pr
 ~
 DEPOSCAP
 Deposit 
-The maximum deposit amount is constrained by the deposit cap. Under the regulation, deposits should be not concentrated on a small number of large depositors. There is a cap that limits the maximum amount of deposit each depositor can make.
+Максимальная сумма депозита ограничена суммой депозитного капитала. Согласно регламенту, депозиты не должны быть сосредоточены на небольшом количестве крупных вкладчиков. Существует ограничение, которое ограничивает максимальную сумму депозита, которую может сделать каждый вкладчик.
 ~
 BANKINCO
-Consolidated Bank Income Statement
-It consolidates the financial data from the Bank HQ and all its bank branches. 
+Консолидированный отчёт о прибылях и убытках банка
+Он объединяет финансовые данные из штаб-квартиры банка и всех его банковских филиалов. 
 ~
 BANKASSE
-Bank Assets
-A bank has its own balance sheet and its assets are separate from the parent company's. 
+Банковские активы
+Банк имеет свой собственный баланс, и его активы отделены от материнской компании. 
 ~
 BFUNDTRA
 Fund Transfer 
-You may transfer funds from the parent company to the bank's balance sheet or vice versa. 
+Вы можете перевести капитал из материнской компании на баланс банка или наоборот. 
 ~
 INSUINCO
 Consolidated Insurance Company Income Statement
-Он объединяет финансовые данные из главного офиса и всех её контор. 
+Он объединяет финансовые данные из штаб-квартиры и всех её контор. 
 ~
 INSUASSE
 Активы страховой компании
@@ -2882,36 +2882,36 @@ IVPROFIT
 Прибыль от инвестиций в акции, облигации и банковские депозиты. 
 ~
 STOPDEPO
-Stop Bank Deposits
-Stop accepting new bank deposits. Only do this when you intend to wind down the bank's deposits and eventually close it down. 
+Остановить вклады в банке
+Прекратить принятие новых банковских депозитов. Делайте это только тогда, когда вы намереваетесь свернуть депозиты банка и в конечном итоге закрыть его. 
 ~
 STOPLOAN
-Stop Bank Loans
-Stop approving new loans. 
+Остановить банковские займы
+Прекратить одобрение новых займов. 
 ~
 RESUDEPO
-Resume Bank Deposits
-The bank has stopped accepting new bank deposits. Click here to resume accepting new bank deposits. 
+Возобновить банковские вклады
+Банк прекратил приём новых банковских депозитов. Нажмите здесь, чтобы возобновить приём новых банковских депозитов. 
 ~
 RESULOAN
-Resume Bank Loans
-The bank has stopped approving new loans. Click here to resume approving new loans. 
+Возобновить банковские займы
+Банк прекратил утверждение новых займов. Нажмите здесь, чтобы возобновить одобрение новых займов. 
 ~
 BCAPRAT1
-Bank Capital Ratio 
-The capital ratio is the ratio of a bank's Equity Capital to its total Loans to Customers. A bank must maintain a capital ratio that meets the central bank's requirement. 
+Коэффициент банковского капитала 
+Коэффициент достаточности капитала - это отношение собственного капитала банка к его общей сумме займов клиентам. Банк должен поддерживать коэффициент капитала, который соответствует требованию центрального банка. 
 ~
 BCAPRAT2
-Required Bank Capital Ratio
-The central bank requires banks to have set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis.
+Требуемый коэффициент достаточности капитала банка
+Центральный банк требует, чтобы банки выделяли достаточно капитала для покрытия непредвиденных убытков и сохранения платёжеспособности в условиях кризиса.
 ~
 LOANDEPP
-Maximum Loans-to-Assets Ratio
-The maximum amount of loans that the bank can lend out is restricted by this ratio. A higher ratio increases incomes from loan interests but it also increases the bank's liquidity risks. 
+Максимальное соотношение займов к активам
+Максимальный объем займов, которые может выдать банк, ограничен этим соотношением. Более высокий коэффициент увеличивает доходы от процентов по займам, но также увеличивает риски ликвидности банка. 
 ~
 INT_MARG
-Net Interest Margin
-Net interest margin is a measure of the difference between the bank's interest income from loans and the amount of deposit interest paid out to its customers, relative to the amount of its interest-earning assets.
+Чистая процентная маржа
+Чистая процентная маржа - это мера разницы между процентном доходов банка по займам и суммой процентов по депозитам, выплаченных его клиентам, относительно суммы его активов, приносящих процентный доход.
 ~
 BFACEVAL
 Face Value 
@@ -2930,12 +2930,12 @@ RESETSRH
 `
 ~
 STOPBANK
-Stop Bank Deposits and Loans
-Access the interface for stopping new bank deposits and/or loans. Only do this when you intend to wind down the bank.
+Остановить банковские вклады и займы
+Доступ к интерфейсу для остановки новых банковских депозитов и/или займов. Делайте это только тогда, когда намереваетесь закрыть банк.
 ~
 AVGINTER
-Average Interest Rate
-It is the average interest rate of all deposits under this term, including older time deposits that were set up at interest rates different than the current interest rate. 
+Средняя процентная ставка
+Это средняя процентная ставка по всем депозитам по данным срокам, включая более ранние депозиты, которые были созданы по процентным ставкам, отличным от текущей процентной ставки. 
 ~
 WTOTTECH
 Общая технология
@@ -2954,8 +2954,8 @@ WREQTECH
 Эта интернет-компания не имеет необходимой технологии для начала работы, так как текущее технологическое качество все еще ниже, чем требуемые технологии. 
 ~
 CLOANDEP
-Current Loans-to-Assets Ratio
-The Loans-to-Assets ratio is calculated by dividing the bank's total assets by its customer deposits. When it is higher than the Maximum Loans-to-Assets Ratio, the bank will stop giving out new loans. 
+Текущее соотношение займов к активам
+Соотношение займов к активам рассчитывается путём деления совокупных активов банка на депозиты клиентов. Когда оно превысит Максимальное соотношение займов к активам, банк прекратит выдавать новые займы. 
 ~
 BUSIACTI
 Business Activity Index
@@ -2991,15 +2991,15 @@ When the Bank Capital Ratio falls below the Requirement, there are 3 possible wa
 ~
 BCRMODE1
 Must Take Action 
-When the bank capital ratio is too low, the game will pop up a window forcing the player to take action. 
+Когда соотношение банковского капитала слишком низок, в игре появится окно, заставляющее игрока принять меры. 
 ~
 BCRMODE2
 Notification Only
-When the bank capital ratio is too low, the game will stop issuing loans and notify you via the Event Tracker.
+Когда соотношение банковского капитала слишком низкое, игра прекращает выдавать займы и уведомляет вас через Event Tracker (Отслеживание событи).
 ~
 BCRMODE3
 No Notification
-When the bank capital ratio is too low, the game will stop issuing loans. It will not notify you. 
+Когда соотношение банковского капитала слишком низкое, игра перестает выдавать займы. Она не будет уведомлять вас. 
 ~
 ITRANCAS
 Переводимые деньги 
@@ -3011,11 +3011,11 @@ ITRANMOD
 ~
 BANKROE
 Рентабельность собственного капитала 
-Return on Equity (ROE) is calculated by dividing the bank's Net Profit by its Equity Capital. ROE is considered a measure of how effectively the bank is using its capital to generate profits. (The change from 12 months ago is displayed in brackets.)
+Рентабельность собственного капитала (ROE) рассчитывается путём деления чистой прибыли банка на его собственный капитал. ROE считается мерой того, насколько эффективно банк использует свой капитал для получения прибыли. (Изменения за последние 12 месяцев отображаются в скобках.)
 ~
 INSUROE
 Рентабельность собственного капитала 
-Рентабельность собственного капитала (ROE) рассчитывается путем деления чистой прибыли страховой компании на её собственный капитал. Он ограничен диапазоном от -50% до 50% с целью расчёта средней ROE.  
+Рентабельность собственного капитала (ROE) рассчитывается путём деления чистой прибыли страховой компании на её собственный капитал. Он ограничен диапазоном от -50% до 50% с целью расчёта средней ROE.  
 ~
 SWITMODE
 Переключить режим отображения (горячая клавиша: 'A')
@@ -3038,8 +3038,8 @@ Insurance Company Brand Rating
 The brand rating of the insurance company in this city. To increase it, select the "Marketing" tab and set up advertising. 
 ~
 INT1YEAR
-Interest Rate
-The interest rate for 1 Year Time Deposit.
+Процентная ставка
+Процентная ставка за 1 год вклада.
 ~
 BKABRAND
 Средний рейтинг бренда 
@@ -3051,7 +3051,7 @@ INABRAND
 ~
 DEPOALL
 All Deposits 
-Select this to show a summary of customer deposits made via bank branches and deposits made by corporations and game persons via the bank headquarters. 
+Выберите этот параметр, чтобы отобразить сводную информацию о депозитах клиентов, сделанных в отделениях банка, и депозитах, сделанных корпорациями и игроками через штаб-квартиру банка. 
 ~
 UR_PROD
 University Research in Products 

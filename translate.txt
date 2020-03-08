@@ -1040,10 +1040,10 @@ Received Dividends|
 Полученные дивиденды|
 ~
 Loan Interest Rate|
-Проц. ставка|
+Проц. ставка кр.|
 ~
 Loan Interest|
-Проценты по кредиту|
+Проц. кредита|
 ~
 Increase in Asset Value|
 Рост стоимости активов|
@@ -4440,10 +4440,10 @@ Base Loan Interest Rate|
 Базовая процентная ставка по кредиту|
 ~
 Maximum Loans-to-Assets Ratio:|
-Макс-ное соотн. займов к активам:|
+Макс-ное соотн. кредитов к активам:|
 ~
 Required Bank Capital Ratio|
-Треб. коэфф. дост. капитала банка|
+Треб. коэфф. капитала банка|
 ~
 Savings Rate Modifier|
 Модификатор нормы сбережений|
@@ -4527,7 +4527,7 @@ Insurance Premiums Incomes|
 Доходы страховых взносов|
 ~
 Return on Equity|
-Рентаб. собств. капитала|
+Рентаб. собс. капитала|
 ~
 Year Average|
 летняя средняя|
@@ -4732,4 +4732,268 @@ Months|
 ~
 Yellow lines denote new releases|
 Жёлт. линии обозн. нов. релизы|
+~
+Deposits|
+Вклады|
+~
+Defaults|
+Дефолты|
+~
+Interest Rate - Saving Account|
+Проц. ставка - Сберегательный счёт|
+~
+Interest Rate - 1 Year Time Deposit|
+Проц. ставка - 1-летний депозит|
+~
+Bank Brand Rating|
+Рейтинг бренда банка|
+~
+Bank Branches|
+Филиалы банка|
+~
+Deposits from All Branches|
+Вклады во всех филиалах|
+~
+Bank Profit|
+Прибыль банка|
+~
+All Deposits|
+Все вклады|
+~
+Deposits from HQ|
+Вклады в штаб-квартире|
+~
+Average Interest Rate|
+Средняя проц. ставка|
+~
+Customer Deposits|
+Вклады клиентов|
+~
+% of All Deposits|
+% от всех вкладов|
+~
+By Local Customers|
+местных клиентов|
+~
+By Corporations and Game Persons|
+корпораций и игроков|
+~
+Total Loan Interest Incomes (Annual)|
+Общ. проц. доходы по займам (в год)|
+~
+Total Deposit Interest Expenses|
+Общие расходы на проц. вкладов|
+~
+Total Net Interest Incomes|
+Всего чистых проц. доходов|
+~
+Net Interest Margin|
+Чистая проц. маржа|
+~
+Bank HQ|
+Банк HQ|
+~
+Bank Revenue|
+Банк. доход|
+~
+Bank Profit|
+Банк. прибыль|
+~
+Deposit Amount|
+Сумма вкладов|
+~
+Annual Interest Expense|
+Годовые проц. выплаты|
+~
+All Loans|
+Все займы|
+~
+Loans to Corporations|
+Займы корпораций|
+~
+Credit Rating|
+Кред. рейтинг|
+~
+Existing Loans|
+Имеющ-ся займы|
+~
+As % of Total Loans|
+В % ко всем займам|
+~
+Annual Interest Incomes|
+Годовые процентные доходы|
+~
+New Loans Allocation|
+Распред. новых займов|
+~
+Maximum Loans-to-Assets Ratio|
+Макс. соотн. займов к активам|
+~
+Current Loans-to-Assets Ratio|
+Тек. соотн. займов к активам|
+~
+Borrower|
+Заемщик|
+~
+All Defaults|
+Все дефолты|
+~
+Defaults by Corporations|
+Дефолты корпораций|
+~
+Default Rate|
+Ставка дефолта|
+~
+Defaulted Loans|
+Дефолты займов|
+~
+Default Amounts|
+Сумма дефолтов|
+~
+Default Percent|
+Процент дефолтов|
+~
+Net Loan Interest Incomes (Annual)|
+Чистые проц. доходы по займам (в год)|
+~
+Loan Defaults (Losses)|
+Дефолты займов (Убытки)|
+~
+Net Loan Incomes After Losses|
+Чистые ссудные доходы после убытков|
+~
+Default Date|
+Дата дефолта|
+~
+Bond Market|
+Рынок облигац.|
+~
+Corporate Bonds|
+Корпорат. обл-ции|
+~
+Municipal Bonds|
+Муницип. обл-ции|
+~
+Current Loans|
+Текущие займы|
+~
+Credit Limit|
+Кредитный лимит|
+~
+New Loan Interest Rate|
+Проц. ставка по нов. займу|
+~
+BORROW|
+ЗАЙМ|
+~
+REPAY|
+ВОЗВРАТ|
+~
+Corporate Credit Rating|
+Корпоративный кредитный рейтинг|
+~
+Term Length|
+Срок возврата|
+~
+Borrow|
+Займ|
+~
+BORROW NOW|
+ЗАНЯТЬ|
+~
+Repay|
+Возвратить|
+~
+REPAY NOW|
+ВОЗВРАТИТЬ|
+~
+Current Deposits|
+Текущие вклады|
+~
+New 1-Year Deposit Interest Rate|
+Новая 1-год. проц. ставка по вкладу|
+~
+DEPOSIT|
+ВКЛАД|
+~
+WITHDRAW|
+ИЗЪЁМ|
+~
+Deposit|
+Вклад|
+~
+DEPOSIT NOW|
+ВЛОЖИТЬ|
+~
+Withdraw|
+Изъять|
+~
+WITHDRAW NOW|
+ИЗЪЯТЬ|
+~
+Issue New Bonds|
+Выпуск новых облигаций|
+~
+Issue Quantity|
+Количество выпуска|
+~
+Bond Issue Price|
+Цена выпуска облигаций|
+~
+Bond Credit Rating|
+Кредитный рейтинг облигаций|
+~
+issues bond, raisin|
+выпускает облигации, получив|
+~
+Set Up a New Subsidiary Company|
+Создание новой дочерней компании|
+~
+Initial Capital of the New Company|
+Начальный капитал новой компании|
+~
+Set Up A New Subsidiary Company Now|
+Создать новую дочернюю компанию|
+~
+Congratulations! Your new subsidiary company has been set up.|
+Поздравляем! Ваша новая дочерняя компания была создана.|
+~
+# of Branches|
+# филиалов|
+~
+Net Interest Income|
+Чистый процентный доход|
+~
+% of Total Assets|
+% от общих активов|
+~
+Loans to Customers|
+Займы клиентов|
+~
+Deposits by Customers|
+Вклады клиентов|
+~
+Must Take Action|
+Нужно принять меры|
+~
+Notification Only|
+Только уведомления|
+~
+No Notification|
+Нет уведомлений|
+~
+Bank Capital Ratio|
+Коэфф. банк. капитала|
+~
+Transfer to Bank|
+Перевод в банк|
+~
+Transfer from Bank|
+Перевод из банка|
+~
+Transfer To Bank|
+Переводы в банк|
+~
+Transfer From Bank|
+Переводы из банка|
 ~

@@ -793,7 +793,7 @@
 [1601]<0626>В прошлом году|
 [1602]<0627>Изменения за год|
 [1603]<0628>Изменения за год|
-[1604]<0629>Изменения прошлого года|
+[1604]<0629>Изм-ния прошл. года|
 [1605]<0630>Время|
 [1606]<0631>Описание|
 [1607]<0632>Текущий месяц|
@@ -859,7 +859,7 @@
 [1682]<0685>Период : |
 [1712]<0715>У вас осталось |
 [1715]<0718> до достижения цели. Поторопитесь!|
-[1721]<0724>Название корпорации|
+[1721]<0724>Назв. корпорации|
 [1722]<0725>Ваше имя|
 [1787]<0790>Ваша корпорация была перекуплена|
 [1788]<0791>Вы потеряли контроль над своей корпорацией !|
@@ -1678,8 +1678,8 @@
 [2864]<NSN1>Sorry, the requirement is not met.|
 [2865]<NSN2>The initial capital of your new subsidiary company must be at least|
 [2866]<NSN3>million|
-[2867]<NSC1>You must now hire a CEO for your new subsidiary company.|
-[2868]<NSC2>To do so, in the next screen, select a CEO candidate and click the [Hire Chief Executive] button.|
+[2867]<NSC1>Теперь вы должны нанять CEO для своей новой дочерней компании.|
+[2868]<NSC2>Для этого на следующем экране выберите кандидата в CEO и нажмите кнопку [Нанять гл. исполнительного директора]|
 [2869]<NSH1>the job as the|
 [2870]<NSH2>of|
 [2871]<NSH3>the new subsidiary company|
@@ -1717,13 +1717,13 @@
 [2903]<BTEL>sets up a Telecom|
 [2904]<BOND>Облигация|
 [2905]<BCOU>Купон|
-[2906]<BYIE>Yield|
-[2907]<BMAT>Срок погашения|
+[2906]<BYIE>Доход-ть|
+[2907]<BMAT>Срок погаш-я|
 [2908]<BPRI>Price|
 [2909]<BOWQ>Owned Qty|
-[2910]<BOWV>Owned Value|
+[2910]<BOWV>Соб. стоим.|
 [2911]<BCRE>Credit Rating|
-[2912]<BHOL>Public Bondholders|
+[2912]<BHOL>Держ. гос. обл-ций|
 [2913]<ACP1>Acquisition!|
 [2914]<ACP2>acquires the private company|
 [2915]<IPO1>IPO!|
