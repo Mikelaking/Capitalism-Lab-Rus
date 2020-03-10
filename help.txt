@@ -1,6 +1,6 @@
 B_TOOL
-Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Инструменты
+Отобразить меню "Инструменты". Нажмите Ctrl-T для переключения между стандартным и расширенным меню. 
 ~
 B_MINMAP
 Mini Map (hotkey: 'M')
