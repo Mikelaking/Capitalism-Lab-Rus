@@ -23,8 +23,8 @@ Product Customization
 If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide. ("Technology Disruption" option is disabled when "Product Customization" is enabled.)
 ~
 GM_CUSTR
-Product Customization Range
-Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies. 
+Диапазон настройки продукта
+Низкая - настройка продукта распространяется только на вашу компанию; Средний - относится к вашей компании и вашим дочерним компаниям; Высокий - это относится ко всем компаниям.
 ~
 GM_PRI
 Частная компания (Дочернее общество DLC)

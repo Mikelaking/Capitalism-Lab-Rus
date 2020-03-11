@@ -75,56 +75,57 @@ MMENUCSR
 Нажмите, чтобы открыть Корпоративный итоговый отчет
 ~
 MMENUFR
-Firm Summary Report (hotkey: 'F')
-Click to open the Firm Summary Report
+Краткий отчет фирмы (горячая клавиша: 'F')
+Нажмите, чтобы открыть краткий отчет фирмы
 ~
-MMENUHQ (hotkey: 'H')
-Headquarters
+MMENUHQ 
+Штаб-квартира(горячая клавиша: 'H')
+Нажмите, чтобы открыть меню Штаб-квартиры
 `
 ~
 MMENUSM
-Stock Market
-Open the Stock Market screen
+Рынок ценных бумаг
+Откройте экран "Рынок ценных бумаг
 ~
 MMENUGM
-Game Menu (hotkey: ESC)
-Save, Load, Retire, return to main menu or return to Windows.
+Игровое меню (горячая клавиша: ESC)
+Сохранить, загрузить, уйти, вернуться в главное меню или вернуться в Windows.
 ~
 MMENUOM
-Options Menu (hotkey: 'O')
-Display the game options menu.
+Меню параметров (горячая клавиша: 'O')
+Отобразить меню параметров игры.
 ~
 MMENUSP
-Game Speed (hotkey: '1' to '5')
-Click the speed dial to alter the game speed.
+Скорость игры (горячая клавиша: от "1" до "5")
+Нажмите кнопку быстрого набора, чтобы изменить скорость игры.
 ~
 OM_NEWS
-News Display Option (hotkey: 'N')
-Open the News Display options screen
+Опция отображения новостей (горячая клавиша: 'N')
+Откройте экран параметры отображения новостей
 ~
 OM_OK
-Ok
+Хорошо
 `
 ~
 OM_CN
-Cancel
+Отменить
 `
 ~
 OM_IS_A
-Disable Internal Sale
-Click to disable Internal Sale and allow competitors to buy your products
+Отключить внутреннюю продажу
+Нажмите, чтобы отключить внутреннюю продажу и разрешить конкурентам покупать ваши продукты.
 ~
 OM_IS_B
-Enable Internal Sale
-Click to enable Internal Sale and ban competitors from buying your products
+Включить внутреннюю продажу
+Нажмите, чтобы включить внутреннюю продажу и запретить конкурентам покупать вашу продукцию.
 ~
 OM_AL_A
-Disable AutoLink to Supplier 
-Click to disable AutoLink to Supplier. You must select suppliers manually
+Отключить автоматическую связь с поставщиком 
+Нажмите, чтобы отключить Автоматическую связь с поставщиком. Вы должны выбрать поставщиков вручную
 ~
 OM_AL_B
-Enable AutoLink to Supplier 
-Click to enable AutoLink to Supplier. Your purchasing units will attempt to find a supplier
+Включите автоматическую связь с поставщиком 
+Нажмите, чтобы включить Автоматическую связь с поставщиком. Ваши закупочные подразделения попытаются найти поставщика
 ~
 OM_TO_A
 Do not consider Tender Offers from other players. 

@@ -4997,3 +4997,15 @@ Transfer To Bank|
 Transfer From Bank|
 Переводы из банка|
 ~
+The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|
+Дополнение "Дочерняя компания", предлагает новый набор мощных инструментов для победы над бизнесом. Мир в грандиозном масштабе!|
+~
+The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor white simultaneously growing your business empire!|
+Дополнение "Экономическое моделирование города", позволяет строить новые города с нуля, формировать собственные. И брать на себя роль мэра, одновременно развивая свою бизнес империю!|
+~
+Enable DLC|
+Включить дополнение|
+~
+DLC|
+ДОПОЛНЕНИЯ|
+~
