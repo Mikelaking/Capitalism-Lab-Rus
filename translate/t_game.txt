@@ -187,8 +187,8 @@
 [0637]<FAT1>Маленьк.|
 [0638]<FAT2>Средн.|
 [0639]<FAT3>Больш.|
-[0640]<FAT4>Снести жилье и продать землю|
-[0641]<FAT5>Выставить это жилье на продажу за: |
+[0640]<FAT4>Снести квартиры и продать землю|
+[0641]<FAT5>Выставить это квартиры на продажу за: |
 [0642]<FAT6>Влад.|
 [0643]<FAT7>Годовая аренда за кв. фут|
 [0644]<FAT8>Арендовано|
@@ -1083,7 +1083,7 @@
 [2160]<1081>открывает новую Радиостанцию|
 [2161]<1082>открывает морской порт|
 [2162]<1083> построила новый особняк|
-[2163]<1084> построила новое жилье|
+[2163]<1084> построила новое квартиры|
 [2164]<1085> построила коммерческое здание|
 [2165]<1086> в городе |
 [2170]<1091> закрывает |
@@ -1700,10 +1700,10 @@
 [2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
 [2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|
 [2888]<NCG3>You have been assigned with new goals.\n\n|
-[2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2890]<NCG5>You have been assigned with a new goal.\n\n|
-[2891]<NCG6>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2892]<NCG7>Are you sure that you want to remove all the goals in this game?|
+[2889]<NCG4>Нажмите клавишу 'G' в любое время для просмотра экрана цели.|
+[2890]<NCG5>Назначена новая цель.\n\n|
+[2891]<NCG6>Нажмите клавишу 'G' в любое время для просмотра экрана цели.|
+[2892]<NCG7>Вы уверены, что хотите удалить все цели в этой игре?|
 [2893]<PLG1>Set up a factory to produce|
 [2894]<PLG2>and launch it onto the market.|
 [2895]<OWNT>Owned Tech|

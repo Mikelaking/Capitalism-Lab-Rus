@@ -105,11 +105,9 @@ OM_NEWS
 ~
 OM_OK
 Хорошо
-`
 ~
 OM_CN
 Отменить
-`
 ~
 OM_IS_A
 Отключить внутреннюю продажу
@@ -244,16 +242,16 @@ Business Ownership Mode
 Click to toggle Business Ownership Mode - Buildings are displayed in their corporate colors.
 ~
 MMAPMMV
-Land Value Mode
-Click to toggle Land Value Mode - darker colors indicate high land values.
+Режим стоимости земли
+Нажмите, чтобы переключить режим стоимости земли-более темные цвета указывают на высокую стоимость земли.
 ~
 MMAPMMP
 Profit Mode
 Click to toggle Profit Mode - brighter colors indicate profitable firms.
 ~
 MMAPMMR
-Land Ownership and Resources Mode
-Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.
+Режим владения землей и ресурсами
+Нажмите, чтобы переключить режим "Земельная собственность и ресурсы" - отображаются права собственности на землю и природные ресурсы.
 ~
 MMAPMMB
 Business Relationship Mode
@@ -428,28 +426,24 @@ IN_SM_OD
 Правая кнопка мыши для уменьшения с большей скоростью. Удерживайте клавишу SHIFT при нажимани для 10X скорости.
 ~
 IN_SM_BI
-Buy more stock
-`
+Купить больше акций
 ~
 IN_SM_BD
-Buy less stock
-`
+Покупать меньше акций
 ~
 IN_SM_SI
-Sell more stock
-`
+Продать больше акций
 ~
 IN_SM_SD
-Sell less stock
-`
+Продавать меньше акций
 ~
 IN_SM_S
 Продать акции
 Нажмите, чтобы продать отображаемые акции
 ~
 IN_SM_SX
-Sell Stock
-You can only trade stock once a day in a Challenge Game.  
+Продать акции
+В игре Вызов вы можете торговать акциями только один раз в день.  
 ~
 IN_SM_GD
 Ежедневный график акций
@@ -468,28 +462,23 @@ IN_SM_GL
 Нажмите, чтобы отобразить годовой график акций за всё время. 
 ~
 IN_SM_NW
-Enable/Disable Stock News
-Click to toggle the stock news option on or off. If this option is on stock purchases and sales will be headlined in the city view
+Включить/выключить биржевые новости
+Нажмите, чтобы включить или выключить опцию биржевые новости. Если этот параметр включен в разделе Покупки и продажи акций, то он будет отображаться в заголовке в окне вид города
 ~
 NEWS_L
-Open News Log window (hotkey:'V')
-`
+Открыть окно журнала новостей (горячая клавиша: 'V')
 ~
 NEWS_LC
-Close News Log window (hotkey:'V')
-`
+Закрыть окно журнала новостей (горячая клавиша: 'V')
 ~
 NEWS_B
-News Action Button 
-`
+Кнопка новостей 
 ~
 IF_S
-Offer to sell this firm
-`
+Предлагаю продать эту фирму
 ~
 IF_B
-Buy This Firm
-`
+Купить эту фирму
 ~
 IF_D
 Demolish This Firm
@@ -2250,9 +2239,9 @@ Potential
 The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.
 ~
 MMAPMMV2
-Land Value Mode
-Click to toggle Land Value Mode - darker colors indicate high land values.
-The red dot indicates the CBD (central business district).
+Режим стоимости земли
+Нажмите, чтобы переключить режим стоимости земли-более темные цвета указывают на высокую стоимость земли.
+Красная точка указывает на центральный деловой район (CBD).
 ~
 PO_ACIV
 Auto Adjust Operation Levels of Civic Buildings 

@@ -1142,7 +1142,7 @@ Radio Station|
 Paдиo|
 ~
 Apartment|
-Жилье|
+Квартиры|
 ~
 Headquarters|
 Штaб квapтиpa|
@@ -5008,4 +5008,25 @@ Enable DLC|
 ~
 DLC|
 ДОПОЛНЕНИЯ|
+~
+Ok|
+Хорошо|
+~
+Remove Goals|
+Удалить цели|
+~
+Lenzburg|
+Ленцбург|
+~
+La Plata|
+Ла-Плата|
+~
+Offer|
+Предложение|
+~
+Sell|
+Продать|
+~
+Land|
+Земля|
 ~
