@@ -1445,10 +1445,10 @@ Research & Development|
 Отдел НИОКР|
 ~
 Inventory|
-Склад|
+Кладовая|
 ~
 Inventory Unit|
-Складские помещения|
+Кладовое помещение|
 ~
 Warehouse Storage|
 Склад|
@@ -1460,22 +1460,22 @@ Storage|
 Склад|
 ~
 Warehouse Input|
-Покупка|
+Вход|
 ~
 Warehouse Input Unit|
-Отдел покупок|
+Входной отдел|
 ~
 Input|
-Покупка|
+Вход|
 ~
 Warehouse Output|
-Продажа|
+Выход|
 ~
 Warehouse Output Unit|
-Отдел продаж|
+Выходной отдел|
 ~
 Output|
-Продажа|
+Выход|
 ~
 Labelling|
 Маркир.|
@@ -4224,10 +4224,10 @@ Instant Messaging|
 Мгновенные сообщения|
 ~
 E-commerce Core|
-Эл. коммерция (ядро)|
+Э-коммерция (ядро)|
 ~
 E-commerce UI|
-Эл. коммерция (интерфейс)|
+Э-коммерция (интерфейс)|
 ~
 Video Storage System|
 Видео хранение (система)|
@@ -4338,7 +4338,7 @@ Multiple|
 Несколько|
 ~
 Boom-Bust Cycle Volatility|
-Цикл бума-спада волатильность|
+Волатильность цикла бума-спада|
 ~
 Private Companies %|
 Частные компании %|
@@ -4386,7 +4386,7 @@ Will AI Tech Companies Go IPO?|
 Будут ли ИИ-техн. компании выходить на ИПО?|
 ~
 Max AI Software and Internet Companies|
-Макс ПО и интернет-компаний ИИ|
+Макс. ПО и интернет-компаний ИИ|
 ~
 Internet Revenue Index|
 Индекс интернет-доходов|
@@ -4455,7 +4455,7 @@ Corporate Deposit Cap|
 Корпоративный депозитный капитал|
 ~
 Economy's Impact on Loan Defaults|
-Влияние экономики на дефолт по кредиту|
+Влияние экономики на дефолты по кредитам|
 ~
 Feature: Insurance Business|
 Особенность: Страховой бизнес|
@@ -4482,7 +4482,7 @@ Feature: Global Stock Market|
 Особенность: Глобальный фондовый рынок|
 ~
 Initial Stock Price Modifier|
-Модификатор начальной цены акций|
+Модификатор начальной цены акции|
 ~
 Banking and Finance|
 Банк. дело и финансы|
@@ -4996,4 +4996,280 @@ Transfer To Bank|
 ~
 Transfer From Bank|
 Переводы из банка|
+~
+The Subsidiary DLC offers you a new set of powerful tools for conquering the business world on a grander scale!|
+Дополнение "Дочерняя компания", предлагает новый набор мощных инструментов для победы над бизнесом. Мир в грандиозном масштабе!|
+~
+The City Economic Simulation DLC lets you build new cities from scratch, form your own political party, and assume the role of mayor white simultaneously growing your business empire!|
+Дополнение "Экономическое моделирование города", позволяет строить новые города с нуля, формировать собственные. И брать на себя роль мэра, одновременно развивая свою бизнес империю!|
+~
+Enable DLC|
+Включить дополнение|
+~
+DLC|
+ДОПОЛНЕНИЯ|
+~
+Ok|
+Хорошо|
+~
+Remove Goals|
+Удалить цели|
+~
+Lenzburg|
+Ленцбург|
+~
+La Plata|
+Ла-Плата|
+~
+Offer|
+Предложение|
+~
+Sell|
+Продать|
+~
+Land|
+Земля|
+~
+Rating Points|
+Рейтинг|
+~
+The rating points of the media in which the product is being advertised. It tells you how many people are watching the media. Thus, the higher the rating points, the greater the effect of the advertising.|
+Рейтинги СМИ, в которых рекламируется продукт. Он говорит вам, сколько людей смотрят СМИ. Таким образом, чем выше рейтинг, тем больше эффект от рекламы.|
+~
+Monthly Advertising Expense|
+Ежемесячные расходы на рекламу|
+~
+This bar represents what the unit spends advertising the product monthly.|
+Эта полоса отображает, сколько отдел тратит на рекламу продукта ежемесячно.|
+~
+Crop Name|
+Название культуры|
+~
+The type of crop that being grown.|
+Тип выращиваемой культуры.|
+~
+Crop in Barn|
+Культура в амбаре|
+~
+When crops are harvested, they are stored in barns, which are represented by the blue bars. The blue bars increases in length when crops are being harvested. Conversely, their lengths decrease when crops are being sold.|
+Когда урожаи собраны, они хранятся в амбарах, которые представлены синими полосами. Синие полосы увеличиваются в длине при уборке урожая. И наоборот, их длина уменьшается при продаже сельскохозяйственных культур.|
+~
+Growth Progress|
+Прогресс роста|
+~
+The bar indicates the growth progress of the crop.|
+Полоса показывает прогресс роста урожая.|
+~
+Product Name|
+Название продукта|
+~
+The type of product in the inventory unit.|
+Тип продукта в кладовом помещении.|
+~
+Product Stock|
+Запас продукта|
+~
+The blue bars indicate the quantity of products in the inventory.|
+Синие полосы показывают количество продуктов в кладовой.|
+~
+Livestock Processing Unit|
+Отдел животноводства|
+~
+The type of livestock product being produced.|
+Тип производимой продукции животноводства.|
+~
+This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.|
+Эта область показывает запас продукта в отделе. Каждая коробка представляет один груз продукта. В каждом грузе может храниться определённое количество единиц товара.|
+~
+Livestock Supply and Processing Capacity|
+Снабжения скотом и мощность обработки|
+~
+The yellow bar is the livestock supply bar. The orange one is the processing capacity bar.^^If the livestock supply bar is shorter than the processing capacity bar, this means that the unit is underused and can process more livestock. You could link additional input units to it to exploit its capacity.^^|
+Желтая полоса - это полоса снабжения скотом. Оранжевая - это полоса мощности обработки.^^Если полоса снабжения скотом короче, чем полоса мощности обработки, это означает, что отдел используется недостаточно и может обрабатывать больше скота. Вы можете привязать к нему дополнительные входные отделы, чтобы использовать его мощность.^^|
+~
+Conversely, if the livestock supply bar is longer than the processing capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it. You could set up a new livestock process unit to lessen the workload of the current one. You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.|
+И наоборот, если полоса снабжения скотом длиннее, чем полоса мощности обработки, отдел достиг своей полной мощности и не может обрабатывать весь присланный ему скот. Вы можете установить новый отдел по обработке скота, чтобы уменьшить нагрузку на текущий. Вы также можете увеличить бюджет обучения текущей фирмы, что увеличит производительность отдела в долгосрочной перспективе.|
+~
+Livestock Name|
+Название скота|
+~
+The type of livestock being raised.|
+Тип разводимого скота.|
+~
+Raw Material Name|
+Название сырья|
+~
+The raw material which the unit is currently producing.|
+Сырьё, которое в настоящее время производит отдел.|
+~
+Raw Material Stock|
+Запас сырья|
+~
+This area shows the stock of the raw material in the unit. Each box represents one cargo of the raw material. Each cargo can store a certain quantity of the raw material.|
+Эта область показывает запас сырья в отделе. Каждая коробка представляет один груз сырья. Каждый груз может хранить определенное количество сырья.|
+~
+This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity.|
+Эта коричневая полоса показывает загрузу отдела. Если эта полоса достигает полной длины, отдел достигает своей полной производительности.|
+~
+The type of product that the unit is currently manufacturing.|
+Тип продукта, который в настоящее время производит отдел.|
+~
+The stocks of raw materials are represented by a row of green bars here. The length of each bar indicates the quantity of the raw material stocked in the unit. During a manufacturing process, raw materials must first go into a manufacturing unit and then converted into products. The manufacturing process is suspended whenever any of its required raw materials is lacking.|
+Запасы сырья представлены здесь рядами зелёных полос. Длина каждой полосы указывает на количество сырья, запасённого в отделе. Во время производственного процесса сырьё сначала поступает в производственный отдел и затем преобразовывается в продукты. Процесс производства приостанавливается всякий раз, когда отсутствует какое-либо необходимое сырье.|
+~
+Thus, to have the unit operating at maximum efficiency, you must provide a consistent supply of raw materials.|
+Таким образом, чтобы отдел работал с максимальной эффективностью, вы должны обеспечить постоянную подачу сырья.|
+~
+This brown bar shows the utilization of the unit. If this bar reaches its full length, the unit has reached its full capacity. It can manufacture no more goods even if there is additional supply and demand. On the other hand, if this bar is short, this indicates that its facilities and resources are not being used effectively.|
+Эта коричневая полоса показывает загрузку отдела. Если эта полоса достигает полной длины, отдел достигает своей полной производительности. Он не может производить больше товаров, даже если есть дополнительный снабжение и спрос. С другой стороны, если эта полоса короткая, это означает, что его оборудование и ресурсы используются неэффективно.|
+~
+This might contribute to the firm's low profitability.|
+Это может способствовать низкой прибыльности фирмы.|
+~
+The type of product that is being processing.|
+Тип продукта, который обрабатывается.|
+~
+This area shows the stock of the product in the unit. Each box represents one cargo of the product. Each cargo can store a certain number of units of the product.^^|
+Эта область показывает запас сырья в отделе. Каждая коробка представляет один груз сырья. Каждый груз может хранить определенное количество сырья.^^|
+~
+The number of units a cargo can hold varies from product to product. For some expensive products, such as cars, one cargo can hold only a few units of the product. For lower-cost products, such as shampoo, one cargo can hold up to several thousand units of the product.^|
+Количество единиц, которые может содержать груз, варьируется от продукта к продукту. Для некоторых дорогих товаров, таких как автомобили, один груз может содержать только несколько единиц продукта. Для более дешевых продуктов, таких как шампунь, один груз может содержать до нескольких тысяч единиц продукта.^|
+~
+This makes the total value of all cargoes of all types of products about the same.^|
+Это делает общую стоимость всех грузов всех видов продукции примерно одинаковой.^|
+~
+Utilization Bar|
+Загрузка|
+~
+Product R&D Unit|
+Отдел НИИ продукта|
+~
+The type of product currently being researched.|
+Тип продукта, который в настоящее время исследуется.|
+~
+R&D Progress|
+НИОКР прогресс|
+~
+The progress of the current R&D project.|
+Прогресс текущего НИОКР проекта.|
+~
+Project Management Unit|
+Отдел управл. проектом|
+~
+The skill level of the team lead.|
+Уровень умения руководителя команды.|
+~
+The employee loyalty of the team lead.|
+Лояльность руководителя команды.|
+~
+Project Duration|
+Длительность проекта|
+~
+The duration of the project.|
+Продолжительность проекта.|
+~
+Project Progress|
+Прогресс проекта|
+~
+The progress of the project.|
+Прогресс этого проекта.|
+~
+Each software company can only have one Project Management unit.|
+Каждая ПО компания может иметь только один отдел управления проектом.|
+~
+Project Programming Unit|
+Отдел програм. проекта|
+~
+The type of product that the unit is currently purchasing.|
+Тип продукта, который в данный момент приобретает отдел.|
+~
+Supply and Demand Bar|
+Полосы снабжения и спроса|
+~
+The yellow bar indicates the supply of the product by the supplier. The orange bar indicates the demand of the product from the current firm. If the supply bar is shorter than the demand bar, that means there is a lack of supply. Overall firm performance may be affected by the lack of the supply. In this case, you should consider switching to a better supplier.|
+Желтая полоса указывает на поставку продукта поставщиком. Оранжевая полоса указывает на спрос продукта из текущей фирмы. Если полоса предложения короче, чем полоса спроса, это означает недостаток снабжения. На общую производительность фирмы может повлиять недостаток снабжения. В этом случае вам следует подумать о переходе на более лучшего поставщика.|
+~
+Radical R&D Unit|
+Радик. НИИ отдел|
+~
+The type of product which the unit is currently selling.|
+Тип продукта, который в настоящее время продается отделом.|
+~
+Supply and Demand|
+Снабжение и спрос|
+~
+The yellow bar indicates the supply of the product by the current firm. The orange bar indicates the demand of the product from the buyers. Examine these bars and the utilization bar carefully to identify the bottlenecks of your business.|
+Жёлтая полоса указывает на поставку продукта текущей фирмой. Оранжевая полоса указывает на спрос товара со стороны покупателей. Внимательно изучите эти полосы и полосу загрузки, чтобы определить узкие места вашего бизнеса.|
+~
+Tech Programming Unit|
+Отдел техн. програм.|
+~
+The type of technology currently being developed.|
+Тип технологии, которая в настоящее время разрабатывается.|
+~
+Tech R&D Unit|
+Техн. НИИ отдел|
+~
+The type of technology currently being researched.|
+Тип технологии в настоящее время исследуется.|
+~
+The type of product that is being brought into the warehouse.|
+Тип продукта, который доставляется на склад.|
+~
+The yellow bar indicates the supply of the product from the source. The orange bar indicates the demand of the product from the current firm.|
+Жёлтая полоса указывает на поставку продукта из источника. Оранжевая полоса указывает на спрос продукта из текущей фирмы.|
+~
+The type of product that is available from this warehouse unit.|
+Тип продукта, доступный на этом складском отделе.|
+~
+The yellow bar indicates the supply of the product by the current firm. The orange bar indicates the external demand of the product. Examine these bars and the utilization bar carefully to identify the bottlenecks of your business.|
+Жёлтая полоса указывает на поставку продукта текущей фирме. Оранжевая полоса указывает на внешний спрос на продукт. Внимательно изучите эти полосы и полосу загрузки, чтобы определить узкие места вашего бизнеса.|
+~
+The type of product in this unit.|
+Тип продукта в этом отделе.|
+~
+The blue bars indicate the quantity of products in the current warehouse storage unit.|
+Синие полосы указывают на количество продуктов в текущем складском хранении отдела.|
+~
+Prepare|
+Готовка|
+~
+Prepare Unit|
+Отдел готовки|
+~
+Crop Growing|
+Растениеводство|
+~
+Livestock Raising|
+Животноводство|
+~
+Livestock Processing|
+Обработка скота|
+~
+months|
+месяцев|
+~
+Product RD|
+Прод. НИ|
+~
+Tech RD|
+Техн. НИ|
+~
+Radical RD|
+Радик. НИ|
+~
+Click here to add a new product (hotkey: A)|
+Нажмите здесь, чтобы добавить новый продукт (горячая клавиша: A)|
+~
+Confirm the price change (hotkey: '*' or ']')|
+Подтвердите изменение цены (горячая клавиша: '*' или ']')|
+~
+Redirect Supply Links|
+Перенаправить связь поставок|
+~
+If any of your other firms have broken supply links which requires the same item that this Sales unit is selling, you may use this button to redirect the supply link to the current Sales unit.|
+Если какая-либо из ваших других фирм имеет неработающие связи поставок, для которых требуется тот же товар, который продаёт/выпускает этот отдел продаж/выходной отдел, вы можете использовать эту кнопку, чтобы перенаправить связь поставок в текущий отдел продаж.|
+~
+For instance, your mine's reserve has exhausted, and you have just built a new mine, then you may use this button to redirect supply links to the new mine.|
+Например, запас вашего рудника исчерпан, и вы только что построили новый рудник, затем вы можете использовать эту кнопку, чтобы перенаправить связи поставок на новый рудник.|
 ~

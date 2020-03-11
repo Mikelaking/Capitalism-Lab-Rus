@@ -1,30 +1,30 @@
 B_TOOL
-Toolbox
-Display the Toolbox menu. Press Ctrl-T to toggle between the standard menu and the extended menu. 
+Инструменты
+Показать меню Инструменты. Нажмите Ctrl-T для переключения между стандартным и расширенным меню. 
 ~
 B_MINMAP
-Mini Map (hotkey: 'M')
-Display the Mini Map
+Мини Карта (горячая клавиша: 'M')
+Показать мини-карту
 ~
 B_WORLD
-World Map (hotkey: Ctrl-W)
-Display the World Map
+Карта мира (горячая клавиша: Ctrl-W)
+Показать карту мира
 ~
 B_INFO
-Information Center
-Open the Information Center screen
+Информационный центр
+Откроет экран информационного центра
 ~
 B_WATCH
-Event Tracker (hotkey: F5)
-Open the Event Tracker Window
+Отслеживатель событий (горячая клавиша: F5)
+Откроет окно Отслеживания событий
 ~
 B_BACK
-Back to previous firm (hotkey: q)
-Go back to the previously selected firm
+Назад к предыдущей фирме (горячая клавиша: q)
+Вернуться в ранее выбранную фирму
 ~
 B_CASH
-Your Corporation's Cash
-This figure is the amount of cash your corporation currently has. 
+Деньги вашей корпорации
+Эта цифра представляет собой сумму наличных денег, которую ваша корпорация имеет в настоящее время. 
 ~
 B_PROFIT
 Your Corporation's Operating Profit
@@ -35,96 +35,95 @@ Your Corporation's Monthly Profit & Loss Chart
 Vertical bars represent your corporation's monthly profit or loss. A red bar indicates a loss; a green bar indicates a profit.
 ~
 B_DATE
-Current Date
-This is the current game date
+Текущая дата
+Это текущая дата игры
 ~
 T_BUILD
-Build Menu (hotkey: B)
-Click to open the Build Menu
+Меню строительства (горячая клавиша: B)
+Нажмите, чтобы открыть меню Строительства.
 ~
 T_BUYLND
-Buy plots of land
-Activate the mode for buying plots of land 
+Купить земельные участки
+Активировать режим покупки земельных участков 
 ~
 T_SETLND
-Land-use planning
-Use this tool to restrict different areas of your city to specific uses. 
+Планирование землепользования
+Используйте этот инструмент, чтобы ограничить различные районы вашего города для конкретного использования. 
 ~
 T_GOAL 
-Goal Report (hotkey: G)
-Open the Goal report 
+Отчёт о целях (горячая клавиша: G)
+Открыть Отчёт о целях 
 ~
 T_ZOOM1
-Smallest zoom level (hotkey: ',')
-Click to change city view to smallest zoom level.
+Наименьший уровень масштабирования (горячая клавиша: ',')
+Нажмите, чтобы изменить вид города на самый маленький уровень масштабирования.
 ~
 T_ZOOM2
-Normal zoom level (hotkey: '.')
-Click to change city view to normal zoom level.
+Нормальный уровень масштабирования (горячая клавиша: '.')
+Нажмите, чтобы изменить вид города на нормальный уровень масштабирования.
 ~
 T_ZOOM3
-Largest zoom level (hotkey: '/')
-Click to change city view to largest zoom level
+Самый большой уровень масштабирования (горячая клавиша: '/')
+Нажмите, чтобы изменить вид города на наибольший уровень масштабирования.
 ~
 MMENUPSR
-Product Summary Report (hotkey: 'P')
-Click to open the Product Summary Report 
+Сводный отчет по продукту (горячая клавиша: 'P')
+Нажмите, чтобы открыть сводный отчет о продукте 
 ~
 MMENUCSR
-Corporate Summary Report (hotkey: 'C')
-Click to open the Corporate Summary Report
+Сводный корпоративный отчет (горячая клавиша: 'C')
+Нажмите, чтобы открыть сводный корпоративный отчет
 ~
 MMENUFR
-Firm Summary Report (hotkey: 'F')
-Click to open the Firm Summary Report
+Сводный отчет фирмы (горячая клавиша: 'F')
+Нажмите, чтобы открыть сводный отчет фирмы
 ~
-MMENUHQ (hotkey: 'H')
-Headquarters
+MMENUHQ
+Штаб-квартира (горячая клавиша: 'H')
+Нажмите, чтобы открыть меню Штаб-квартиры
 `
 ~
 MMENUSM
-Stock Market
-Open the Stock Market screen
+Фондовый рынок
+Открыть экран Фондового рынка
 ~
 MMENUGM
-Game Menu (hotkey: ESC)
-Save, Load, Retire, return to main menu or return to Windows.
+Игровое меню (горячая клавиша: ESC)
+Сохранить, загрузить, уйти, вернуться в главное меню или вернуться в Windows.
 ~
 MMENUOM
-Options Menu (hotkey: 'O')
-Display the game options menu.
+Меню настроек (горячая клавиша: 'O')
+Показать меню настроек игры.
 ~
 MMENUSP
-Game Speed (hotkey: '1' to '5')
-Click the speed dial to alter the game speed.
+Скорость игры (горячая клавиша: от '1' до '5')
+Нажмите кнопку быстрого набора, чтобы изменить скорость игры.
 ~
 OM_NEWS
-News Display Option (hotkey: 'N')
-Open the News Display options screen
+Настройка отображения новостей (горячая клавиша: 'N')
+Открыть экран настроек отображения новостей
 ~
 OM_OK
-Ok
-`
+Хорошо
 ~
 OM_CN
-Cancel
-`
+Отменить
 ~
 OM_IS_A
-Disable Internal Sale
-Click to disable Internal Sale and allow competitors to buy your products
+Отключить внутреннюю продажу
+Нажмите, чтобы отключить внутреннюю продажу и разрешить конкурентам покупать ваши продукты
 ~
 OM_IS_B
-Enable Internal Sale
-Click to enable Internal Sale and ban competitors from buying your products
+Включить внутреннюю продажу
+Нажмите, чтобы включить внутреннюю продажу и запретить конкурентам покупать вашу продукцию
 ~
 OM_AL_A
-Disable AutoLink to Supplier 
-Click to disable AutoLink to Supplier. You must select suppliers manually
+Отключить автоматическую связь с поставщиком 
+Нажмите, чтобы отключить Автоматическую связь с поставщиком. Вам нужно будет выбирать поставщиков вручную
 ~
 OM_AL_B
-Enable AutoLink to Supplier 
-Click to enable AutoLink to Supplier. Your purchasing units will attempt to find a supplier
+Включите автоматическую связь с поставщиком 
+Нажмите, чтобы включить Автоматическую связь с поставщиком. Ваши закупочные отделы будут пытаться найти поставщика
 ~
 OM_TO_A
 Do not consider Tender Offers from other players. 
@@ -243,16 +242,16 @@ Business Ownership Mode
 Click to toggle Business Ownership Mode - Buildings are displayed in their corporate colors.
 ~
 MMAPMMV
-Land Value Mode
-Click to toggle Land Value Mode - darker colors indicate high land values.
+Режим стоимости земли
+Нажмите, чтобы переключить режим стоимости земли - более тёмные цвета указывают на высокую стоимость земли.
 ~
 MMAPMMP
 Profit Mode
 Click to toggle Profit Mode - brighter colors indicate profitable firms.
 ~
 MMAPMMR
-Land Ownership and Resources Mode
-Click to toggle Land Ownership and Resources Mode - land ownership and natural resources are displayed.
+Режим земельная собственность и ресурсы
+Нажмите, чтобы переключить режим земельная собственность и ресурсы - отображаются права собственности на землю и природные ресурсы.
 ~
 MMAPMMB
 Business Relationship Mode
@@ -427,28 +426,24 @@ IN_SM_OD
 Правая кнопка мыши для уменьшения с большей скоростью. Удерживайте клавишу SHIFT при нажимани для 10X скорости.
 ~
 IN_SM_BI
-Buy more stock
-`
+Купить больше акций
 ~
 IN_SM_BD
-Buy less stock
-`
+Покупать меньше акций
 ~
 IN_SM_SI
-Sell more stock
-`
+Продать больше акций
 ~
 IN_SM_SD
-Sell less stock
-`
+Продавать меньше акций
 ~
 IN_SM_S
 Продать акции
 Нажмите, чтобы продать отображаемые акции
 ~
 IN_SM_SX
-Sell Stock
-You can only trade stock once a day in a Challenge Game.  
+Продать акции
+Вы можете торговать акциями только один раз в день в игре Вызов.  
 ~
 IN_SM_GD
 Ежедневный график акций
@@ -467,28 +462,23 @@ IN_SM_GL
 Нажмите, чтобы отобразить годовой график акций за всё время. 
 ~
 IN_SM_NW
-Enable/Disable Stock News
-Click to toggle the stock news option on or off. If this option is on stock purchases and sales will be headlined in the city view
+Включить/выключить биржевые новости
+Нажмите, чтобы включить или выключить опцию биржевые новости. Если этот параметр включен в разделе Покупки и продажи акций, то он будет отображаться в заголовке в окне вид города
 ~
 NEWS_L
-Open News Log window (hotkey:'V')
-`
+Открыть окно журнала новостей (горячая клавиша:'V')
 ~
 NEWS_LC
-Close News Log window (hotkey:'V')
-`
+Закрыть окно журнала новостей (горячая клавиша:'V')
 ~
 NEWS_B
-News Action Button 
-`
+Кнопка новостей 
 ~
 IF_S
-Offer to sell this firm
-`
+Предлагаю продать эту фирму
 ~
 IF_B
-Buy This Firm
-`
+Купить эту фирму
 ~
 IF_D
 Demolish This Firm
@@ -519,8 +509,8 @@ IF_F
 Нажмите, чтобы открыть финансовый отчет фирмы
 ~
 IF_AL
-Auto Link Supplier
-Click to allow purchasing units to find their own suppliers
+Автоматическая связь поставок
+Нажмите, чтобы позволить отделам покупок находить своих поставщиков
 ~
 IF_T
 Обучение
@@ -887,7 +877,7 @@ Shortcut for selecting a layout plan for this firm.
 `
 ~
 IF_ADD3
-Set up a new production for this firm. 
+Создать новое производство для этой фирмы. 
 `
 ~
 IFM_C
@@ -915,29 +905,29 @@ City Average
 It shows the average ratings of this product in the current city. The average ratings are derived from your competitors' products and your products. Therefore if your product's ratings are higher than the city averages, your products will sell better. 
 ~
 IFT_SD
-Product Supply and Demand Indicators 
-Yellow bar = the Supply. Orange bar = the Demand. When the demand (orange) bar is longer than the supply (yellow) bar, it means you do not have enough supply to meet the demand.
+Индикаторы поставки и спроса продукции 
+Жёлтая полоса = Поставка. Оранжевая полоса = Спрос. Когда полоса спроса (оранжевая) длиннее, чем полоса поставки (жёлтая), это означает, что у вас недостаточно предложения для удовлетворения спроса.
 ~
 ISUPPLY
 Product Supply Indicator 
 It shows the percentage of the product demand at this purchasing unit is met by the supply.
 ~
 U_LEVEL
-Experience Level of the Unit 
-The overall productivity and capacity of most units increase when their unit
-levels increase. Training will increase them increase their levels faster.   
+Уровень опыта отдела 
+Общая производительность и мощность большинства отделов увеличиваются, когда при
+увеличении их уровней. Обучение увеличит повышение их уровеней быстрее.   
 ~
 U_UTIL
-Capacity Utilization Rate of the Unit 
-A high utilization rate means that your unit is operating efficiently. A low rate means that your unit has idle time and its capacity is not well utilized. 
+Коэффициент загрузки производственных мощностей 
+Высокий коэффициент загрузки означает, что ваш отдел работает эффективно. Низкий уровень означает, что ваш отдел имеет время простоя, а его мощности не используются должным образом. 
 ~
 U_STOCK
-Stock at the Unit 
-The stock kept at the current unit. 
+Запас в отделе 
+Запас, хранящийся в текущем отделе. 
 ~
 U_WORKER
-Workers at the Unit 
-Novice workers wear red uniforms, whereas experienced workers wear blue. When all the workers in a unit become experienced, the unit level will increase by one (training will speed this up).
+Рабочие в отделе 
+Начинающие рабочие носят красную форму, а опытные рабочие - голубую. Когда все работники в отделе станут опытными, уровень отдела увеличится на единицу (обучение ускорит это).
 ~
 LO_IN_E1
 Single-click here to select this functional unit. Double-click to change it
@@ -976,7 +966,7 @@ Select product
 `
 ~
 JU_006
-Clear Stock
+Очистить склад
 `
 ~
 JU_007
@@ -988,15 +978,15 @@ Set production
 More than one product type can be produced using the existing inputs. Click here to select the production type you prefer. 
 ~
 JU_009
-Link to a new supplier
+Связи на новых поставщиков
 `
 ~
 JU_010
-Show the current supplier
+Показать текущего поставщика
 `
 ~
 JU_011
-Stop purchasing from the current supplier
+Прекратить закупки у текущего поставщика
 `
 ~
 JU_012
@@ -1032,16 +1022,16 @@ Terminate supplies to existing clients.
 `
 ~
 JU_018
-Clear existing stock of this product. 
+Очистить имеющийся запас этого продукта. 
 `
 ~
 JU_019
-Clear existing stock of this product. 
+Очистить имеющийся запас этого продукта. 
 `
 ~
 JU_020
-Toggle Internal Sale. 
-When Internal Sale is enabled, competitors cannot purchase this product from you. If you want to enable Internal Sale by default, you can open the Option menu (hotkey: 'O') and set Default Internal Sale to Enabled. 
+Переключить Внутреннюю продажу. 
+Если включена Внутренняя распродажа, конкуренты не могут приобретать этот продукт у вас. Если вы хотите включить Внутреннюю продажу по умолчанию, вы можете открыть Меню опций (горячая клавиша: 'O') и установить для параметра Внутренняя продажа по умолчанию в значение Включено. 
 ~
 JU_021
 Show Clients
@@ -1060,7 +1050,7 @@ Interior view
 `
 ~
 PD_S_GRP
-Enable or disable product sale graph
+Включить или отключить график продаж товаров
 `
 ~
 CDR_P_01
@@ -1973,7 +1963,7 @@ DIVYIELD
 ~
 REDIRECT 
 Redirect Supply Links 
-If any of your other firms have broken supply links which requires the same item that this Sales unit is selling, you may use this button to redirect the supply link to the current Sales unit. 
+If any of your other firms have broken supply links which requires the same item that this Sales unit is selling, you may use this button to redirect the supply link to the current Sales unit.^
 For instance, your mine's reserve has exhausted, and you have just built a new mine, then you may use this button to redirect supply links to the new mine. 
 ~
 CUSTMOD
@@ -2157,7 +2147,7 @@ Low Supply Tolerance Level
 If the value is set to low, the AI has lower tolerance of low supply and have greater tendency to look for new supply.
 ~
 SHOWSUPP
-Show the current supplier (hotkey: W or U)
+Показать текущего поставщика (горячая клавиша: W или U)
 `
 ~
 TARBRAND 
@@ -2249,9 +2239,9 @@ Potential
 The speed at which an employee's skill increases is affected by the employee's potential and the firm's training budget.
 ~
 MMAPMMV2
-Land Value Mode
-Click to toggle Land Value Mode - darker colors indicate high land values.
-The red dot indicates the CBD (central business district).
+Режим стоимости земли
+Нажмите, чтобы переключить режим стоимости земли - более тёмные цвета указывают на высокую стоимость земли.
+Красная точка указывает на центральный деловой район (CBD).
 ~
 PO_ACIV
 Auto Adjust Operation Levels of Civic Buildings 
@@ -2502,7 +2492,7 @@ Hotkey: Ctrl-B
 `
 ~
 SHOWSUPL
-Show the current supplier.
+Показать текущего поставщика.
 `
 ~
 IP_OS0

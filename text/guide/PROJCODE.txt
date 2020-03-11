@@ -1,0 +1,5 @@
+[Project Programming Unit]
+~Умение~
+The skill level of the team lead.^
+~Лояльность~
+The employee loyalty of the team lead.^

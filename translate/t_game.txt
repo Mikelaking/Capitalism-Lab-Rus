@@ -1521,7 +1521,7 @@
 [2705]<NCUR>CВАЛЮТА РЕВАЛЬВИРОВАНА! Правительство объявило о ревальвации нац.валюты в соотношении 1 к 100. Банкноты и монеты переоцененной валюты поступают в обращение|
 [2708]<BL01>Покупка земли!|
 [2709]<BL02>Извините, но Вы не можете купить этот участок земли.|
-[2710]<P36M>36 мес.последние|
+[2710]<P36M>36 мес.последн.|
 [2711]<AIG4>Технологический прорыв|
 [2712]<AIG5>Медиа в фокусе|
 [2713]<AIS4>Технология|
@@ -1636,7 +1636,7 @@
 [2822]<RDC3> of yours have been redirected to purchase |
 [2823]<RDC4> from the current firm.|
 [2824]<RDC5>To view the new client list, click the [Clients] button on your Sales Unit's interface.|
-[2825]<RDC6>None of the Purchasing Units in any of your firms presently lack supply of this type of product.\n\nThus no actions have been taken.|
+[2825]<RDC6>Ни один из отделов закупок ни в одной из ваших фирм в настоящее время не имеет связей поставок этого типа продукции.\n\nТаким образом, никаких действий не было предпринято.|
 [2826]<KOC1>King of Capitalism|
 [2827]<KOC2>To become the undisputed King of Capitalism, you must be financially savvy enough to grow your company's market cap to|
 [2828]<KOC3>billion while retaining at least 80 % of its equity shares, and achieve all the subgoals.|
@@ -1700,10 +1700,10 @@
 [2886]<NCG1>You have enabled Survival Mode in City Economic Simulation DLC.\n\n|
 [2887]<NCG2>All products are locked, requiring reinvention, except the products under the Food and Beverage mega class and the products in which you have expertise.\n\n\n|
 [2888]<NCG3>You have been assigned with new goals.\n\n|
-[2889]<NCG4>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2890]<NCG5>You have been assigned with a new goal.\n\n|
-[2891]<NCG6>Press the 'G' shortcut key anytime to view the Goal screen.|
-[2892]<NCG7>Are you sure that you want to remove all the goals in this game?|
+[2889]<NCG4>Нажмите клавишу 'G' в любое время для просмотра экрана цели.|
+[2890]<NCG5>Вам назначена новая цель.\n\n|
+[2891]<NCG6>Нажмите клавишу 'G' в любое время для просмотра экрана цели.|
+[2892]<NCG7>Вы уверены, что хотите удалить все цели в этой игре?|
 [2893]<PLG1>Set up a factory to produce|
 [2894]<PLG2>and launch it onto the market.|
 [2895]<OWNT>Owned Tech|

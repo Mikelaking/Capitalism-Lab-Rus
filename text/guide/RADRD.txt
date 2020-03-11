@@ -1,0 +1,7 @@
+[Radical Research and Development Unit]
+~Product Name~
+The type of product currently being researched.^
+~R&D Progress~
+The progress of the current R&D project.^
+~Лояльность~
+The employee loyalty of the team lead.
