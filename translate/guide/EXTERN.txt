@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 [Advertising Unit]
 ~Rating Points~
 The rating points of the media in which the product is being advertised. It tells you how many people are watching the media. Thus, the higher the rating points, the greater the effect of the advertising.^
 ~Monthly Advertising Expense~
 This bar represents what the unit spends advertising the product monthly.
+=======
+[Рекламный Блок]
+~Unit Name~
+Название подразделения
+~Unit Level~
+Уровень отдела
+~Rating Points~
+Рейтинговые баллы СМИ, в которых рекламируется продукт. Он говорит вам, сколько людей смотрят СМИ. Таким образом, чем выше рейтинговые баллы, тем больше эффект от рекламы.^
+~Monthly Advertising Expense~
+Эта планка представляет собой то, что подразделение тратит на рекламу продукта ежемесячно.
+>>>>>>> 33f7d1f864885931e4f1e6289be5ac2ea51062aa

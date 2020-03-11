@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 [Livestock Raising Unit]
 ~Livestock Name~
 The type of livestock being raised.
+=======
+[Животноводческое хозяйство]
+~Unit Name~
+Название подразделения
+~Unit Level~
+Уровень отдела
+~Livestock Name~
+Тип выращиваемого скота.
+>>>>>>> 33f7d1f864885931e4f1e6289be5ac2ea51062aa
