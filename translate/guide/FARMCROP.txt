@@ -1,7 +1,11 @@
-[Crop Growing Unit]
+[Растениеводческое хозяйство]
+~Unit Name~
+Название подразделения
+~Unit Level~
+Уровень отдела
 ~Crop Name~
-The type of crop that being grown.^ 
+Типа сельскохозяйственных культур, которые выращиваются.^
 ~Crop in Barn~
-When crops are harvested, they are stored in barns, which are represented by the blue bars. The blue bars increases in length when crops are being harvested. Conversely, their lengths decrease when crops are being sold.^
+Когда урожай собран, он хранится в амбарах, которые представлены синими полосами. Синие полосы увеличиваются в длину, когда урожай собирается. И наоборот, их длина уменьшается, когда урожай продается.^
 ~Growth Progress~
-The bar indicates the growth progress of the crop.
+Полоска указывает на прогресс роста урожая.

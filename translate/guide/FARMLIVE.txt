@@ -1,3 +1,7 @@
-[Livestock Raising Unit]
+[Животноводческое хозяйство]
+~Unit Name~
+Название подразделения
+~Unit Level~
+Уровень отдела
 ~Livestock Name~
-The type of livestock being raised.
+Тип выращиваемого скота.
