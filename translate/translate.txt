@@ -1142,7 +1142,7 @@ Radio Station|
 Paдиo|
 ~
 Apartment|
-Квартиры|
+Жилье|
 ~
 Headquarters|
 Штaб квapтиpa|
@@ -5030,7 +5030,6 @@ Sell|
 Land|
 Земля|
 ~
-<<<<<<< HEAD:translate/translate.txt
 Rating Points|
 Рейтинг|
 ~
@@ -5274,5 +5273,3 @@ If any of your other firms have broken supply links which requires the same item
 For instance, your mine's reserve has exhausted, and you have just built a new mine, then you may use this button to redirect supply links to the new mine.|
 Например, запас вашего рудника исчерпан, и вы только что построили новый рудник, затем вы можете использовать эту кнопку, чтобы перенаправить связи поставок на новый рудник.|
 ~
-=======
->>>>>>> 33f7d1f864885931e4f1e6289be5ac2ea51062aa:translate.txt
