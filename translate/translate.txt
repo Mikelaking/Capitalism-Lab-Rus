@@ -872,13 +872,13 @@ CONSIDER TECH OFFER|
 ПРЕДЛАГАТЬ СДЕЛКИ С ТЕХНОЛОГИЯМИ|
 ~
 st|
-ый|
+-й|
 ~
 nd|
-ой|
+-й|
 ~
 rd|
-ий|
+-й|
 ~
 th|
 -й|
@@ -3759,7 +3759,7 @@ PROFIT TAX|
 НАЛОГ НА ПРИБЫЛЬ|
 ~
 NET PROFIT AFTER TAX|
-ЧИСТ. ПРИБ. ПОСЛЕ НАЛОГОВ|
+Ч. ПРИБ. ПОСЛЕ НАЛОГОВ|
 ~
 Retained Earnings|
 Нераспределенная прибыль|
@@ -5272,4 +5272,1234 @@ If any of your other firms have broken supply links which requires the same item
 ~
 For instance, your mine's reserve has exhausted, and you have just built a new mine, then you may use this button to redirect supply links to the new mine.|
 Например, запас вашего рудника исчерпан, и вы только что построили новый рудник, затем вы можете использовать эту кнопку, чтобы перенаправить связи поставок на новый рудник.|
+~
+City Graphs 1|
+Город графики 1|
+~
+City Graphs 2|
+Город графики 2|
+~
+GDP Components Graphs|
+Графики компонентов ВВП|
+~
+GDP|
+ВВП|
+~
+Digital|
+Цифровой|
+~
+Mayor|
+Мэр|
+~
+Policies|
+Политика|
+~
+Industries|
+Промышленность|
+~
+Quality of Life|
+Качество жизни|
+~
+Public Facilities|
+Государственные учреждения|
+~
+Bonds|
+Облигации|
+~
+Annual Immigrants|
+Ежегодные иммигранты|
+~
+Annual Emigrants|
+Ежегодные эмигранты|
+~
+Supply & Demand Index|
+Индекс предлож. и спроса|
+~
+Housing|
+жилья|
+~
+Supply|
+Предложение|
+~
+Demand|
+Спрос|
+~
+Office Space|
+офисных помещений|
+~
+Wage Rate|
+Уровень дохода|
+~
+Job Openings|
+Вакансии|
+~
+(no data yet)|
+(пока нет данных)|
+~
+Economy: Booming|
+Экономика: Бум|
+~
+Economy: Expansion|
+Экономика: Экспансия|
+~
+Total GDP|
+Общий ВВП|
+~
+GDP Per Capita|
+ВВП на душу населения|
+~
+Last Month|
+Прошлый месяц|
+~
+(0 year)|
+(0 лет)|
+~
+(1 year)|
+(1 лет)|
+~
+(2 years)|
+(2 лет)|
+~
+(3 years)|
+(3 лет)|
+~
+(4 years)|
+(4 лет)|
+~
+(5 years)|
+(5 лет)|
+~
+(6 years)|
+(6 лет)|
+~
+(7 years)|
+(7 лет)|
+~
+(8 years)|
+(8 лет)|
+~
+(9 years)|
+(9 лет)|
+~
+(10 years)|
+(10 лет)|
+~
+(11 years)|
+(11 лет)|
+~
+(12 years)|
+(12 лет)|
+~
+(13 years)|
+(13 лет)|
+~
+(14 years)|
+(14 лет)|
+~
+(15 years)|
+(15 лет)|
+~
+(16 years)|
+(16 лет)|
+~
+(17 years)|
+(17 лет)|
+~
+(18 years)|
+(18 лет)|
+~
+(19 years)|
+(19 лет)|
+~
+(20 years)|
+(20 лет)|
+~
+(21 years)|
+(21 лет)|
+~
+(22 years)|
+(22 лет)|
+~
+(23 years)|
+(23 лет)|
+~
+(24 years)|
+(24 лет)|
+~
+(25 years)|
+(25 лет)|
+~
+(26 years)|
+(26 лет)|
+~
+(27 years)|
+(27 лет)|
+~
+(28 years)|
+(28 лет)|
+~
+(29 years)|
+(29 лет)|
+~
+(30 years)|
+(30 лет)|
+~
+(31 years)|
+(31 лет)|
+~
+(32 years)|
+(32 лет)|
+~
+(33 years)|
+(33 лет)|
+~
+(34 years)|
+(34 лет)|
+~
+(35 years)|
+(35 лет)|
+~
+(36 years)|
+(36 лет)|
+~
+(37 years)|
+(37 лет)|
+~
+(38 years)|
+(38 лет)|
+~
+(39 years)|
+(39 лет)|
+~
+(40 years)|
+(40 лет)|
+~
+(41 years)|
+(41 лет)|
+~
+(42 years)|
+(42 лет)|
+~
+(43 years)|
+(43 лет)|
+~
+(44 years)|
+(44 лет)|
+~
+(45 years)|
+(45 лет)|
+~
+(46 years)|
+(46 лет)|
+~
+(47 years)|
+(47 лет)|
+~
+(48 years)|
+(48 лет)|
+~
+(49 years)|
+(49 лет)|
+~
+(50 years)|
+(50 лет)|
+~
+Consumer Tax|
+Потребительский налог|
+~
+Individual Income Tax|
+Индивид. подоходн. налог|
+~
+Corporate Profit Tax|
+Корпор. налог на прибыль|
+~
+Proceeds from Land Sales|
+Выручка от продажи земли|
+~
+Media Companies|
+Медиа компании|
+~
+Apartments|
+Апартаменты|
+~
+Commercial Buildings|
+Коммерческие здания|
+~
+TOTAL REVENUE|
+ОБЩИЙ ДОХОД|
+~
+Administrative Expenses|
+Административные затраты|
+~
+Education|
+Образование|
+~
+Police Department|
+Полицейский участок|
+~
+Fire Department|
+Пожарная часть|
+~
+Health Care|
+Здравоохранение|
+~
+Cultural Services|
+Культурные услуги|
+~
+Sport & Recreation|
+Спорт и Отдых|
+~
+Unemployment Benefits|
+Пособие по безработице|
+~
+Bond Interest|
+Проценты по облигациям|
+~
+TOTAL EXPENDITURES|
+ВСЕГО РАСХОДОВ|
+~
+SURPLUS/DEFICIT|
+САЛЬДО/ДЕФИЦИТ|
+~
+YTD Changes|
+Изм-ния с НГ|
+~
+Last Year Changes|
+Изм-ния в пр. году|
+~
+Public Facilities Assets|
+Активы обществ. объектов|
+~
+TOTAL ASSETS|
+ВСЕГО АКТИВОВ|
+~
+TOTAL LIABILITIES|
+ВСЕГО ОБЯЗАТЕЛЬСТВА|
+~
+BALANCE|
+БАЛАНС|
+~
+GDP - Consumption:|
+ВВП - потребление:|
+~
+GDP - Investment:|
+ВВП - Инвестиции:|
+~
+GDP - Government Spending:|
+ВВП - правительств. расходы:|
+~
+GDP - Net Exports:|
+ВВП - чистый экспорт:|
+~
+Total Exports|
+Всего экспорт|
+~
+Total Imports|
+Всего импорт|
+~
+GDP Component|
+Компоненты ВВП|
+~
+Year 1990|
+Год 1990|
+~
+Year 1991|
+Год 1991|
+~
+Year 1992|
+Год 1992|
+~
+Year 1993|
+Год 1993|
+~
+Year 1994|
+Год 1994|
+~
+Year 1995|
+Год 1995|
+~
+Year 1996|
+Год 1996|
+~
+Year 1997|
+Год 1997|
+~
+Year 1998|
+Год 1998|
+~
+Year 1999|
+Год 1999|
+~
+Year 2000|
+Год 2000|
+~
+Year 2001|
+Год 2001|
+~
+Year 2002|
+Год 2002|
+~
+Year 2003|
+Год 2003|
+~
+Year 2004|
+Год 2004|
+~
+Year 2005|
+Год 2005|
+~
+Year 2006|
+Год 2006|
+~
+Year 2007|
+Год 2007|
+~
+Year 2008|
+Год 2008|
+~
+Year 2009|
+Год 2009|
+~
+Year 2010|
+Год 2010|
+~
+Year 2011|
+Год 2011|
+~
+Year 2012|
+Год 2012|
+~
+Year 2013|
+Год 2013|
+~
+Year 2014|
+Год 2014|
+~
+Year 2015|
+Год 2015|
+~
+Year 2016|
+Год 2016|
+~
+Year 2017|
+Год 2017|
+~
+Year 2018|
+Год 2018|
+~
+Year 2019|
+Год 2019|
+~
+Year 2020|
+Год 2020|
+~
+Year 2021|
+Год 2021|
+~
+Year 2022|
+Год 2022|
+~
+Year 2023|
+Год 2023|
+~
+Year 2024|
+Год 2024|
+~
+Year 2025|
+Год 2025|
+~
+Year 2026|
+Год 2026|
+~
+Year 2027|
+Год 2027|
+~
+Year 2028|
+Год 2028|
+~
+Year 2029|
+Год 2029|
+~
+Year 2030|
+Год 2030|
+~
+Year 2031|
+Год 2031|
+~
+Year 2032|
+Год 2032|
+~
+Year 2033|
+Год 2033|
+~
+Year 2034|
+Год 2034|
+~
+Year 2035|
+Год 2035|
+~
+Year 2036|
+Год 2036|
+~
+Year 2037|
+Год 2037|
+~
+Year 2038|
+Год 2038|
+~
+Year 2039|
+Год 2039|
+~
+Year 2040|
+Год 2040|
+~
+Growth|
+Рост|
+~
+Consumption|
+Потребление|
+~
+Government Spending|
+Правительств. расходы|
+~
+Net Exports|
+Чистый экспорт|
+~
+Real GDP Growth|
+Рост реального ВВП|
+~
+Personal Computer Users|
+Пользов-ли перс. компьютеров|
+~
+PC Internet Users|
+Интернет-пользователи ПК|
+~
+Mayor History|
+История мэра|
+~
+Mayor of |
+Мэр |
+~
+Approval Rating|
+Рейтинг одобрен.|
+~
+TAX RATE|
+СТАВКА НАЛОГА|
+~
+Consumer Tax Rate|
+Ставка потребительского налога|
+~
+Individual Income Tax Rate|
+Индивид-ная ставка подоходн. налога|
+~
+Corporate Profit Tax Rate|
+Ставка налога на прибыль|
+~
+Business Activity Index|
+Индекс деловой активности|
+~
+Annual limit on immigrants|
+Годовой лимит на иммигрантов|
+~
+Industry|
+Промышленность|
+~
+City Competitiveness Rating|
+Рейт. конкурентосп. города|
+~
+Global|
+Глобал.|
+~
+Exports|
+Экспорт|
+~
+Rank|
+Ранг|
+~
+Category|
+Категория|
+~
+Rating|
+Рейтинг|
+~
+Housing and Community Facilities|
+Жилищно-коммунальн. хозяйство|
+~
+Jobs and Income|
+Работа и доход|
+~
+Health|
+Здоровье|
+~
+Social Security|
+Социальное обеспечение|
+~
+Food Supply|
+Обеспечение продовольствием|
+~
+Goods Supply|
+Поставки товаров|
+~
+Environment|
+Окружающая среда|
+~
+Safety|
+Безопасность|
+~
+Culture|
+Культура|
+~
+Sports|
+Виды спорта|
+~
+OVERALL QUALITY OF LIFE|
+ОБЩЕЕ КАЧЕСТВО ЖИЗНИ|
+~
+Supply/Demand Index|
+Предлож./Спрос индекс|
+~
+Location Convenience|
+Удобство расположения|
+~
+Quality of Service|
+Качество обслуживания|
+~
+OVERALL SATISFACTION|
+ОБЩАЯ УДОВЛЕТВ-НОСТЬ|
+~
+Annual Expenses|
+Ежегодные расходы|
+~
+Quality of Education|
+Качество образования|
+~
+Geographical Coverage|
+Географическое покрытие|
+~
+Description|
+Описание|
+~
+Monthly Surplus/Deficit|
+Ежемесячный профицит/дефицит|
+~
+Lifetime Surplus/Deficit|
+За всё время профицит/дефицит|
+~
+Accumulated losses for future tax deduction|
+Накопленные убытки для будущего налогового вычета|
+~
+The city's Competitiveness Rating of the industry.|
+Рейтинг конкурентоспособности промышленности города.|
+~
+The Global Competitiveness Rating of the industry.|
+Глобальный рейтинг конкурентоспособности промышленности.|
+~
+Political Parties|
+Полит. партии|
+~
+Details|
+Детали|
+~
+Party Leader|
+Лидер партии|
+~
+Hometown|
+Родной город|
+~
+Fund|
+Фонд|
+~
+Donate|
+Пожертв.|
+~
+Company Donation|
+Пожертв-ние компании|
+~
+Personal Donation|
+Личное пожертвование|
+~
+Your Personal Cash|
+Ваши личные деньги|
+~
+Donation Amount|
+Размер пожертвования|
+~
+Donate Now|
+Пожертвовать|
+~
+Form Your Own Party|
+Создать свою партию|
+~
+New Political Party Name|
+Название новой политической партии|
+~
+Logo|
+Логотип|
+~
+Randomize|
+Рандомно|
+~
+Socialist Party|
+Социалистическая партия|
+~
+National Party|
+Национальная партия|
+~
+Progressive Party|
+Прогрессивная партия|
+~
+Labour Party|
+Лейбористская партия|
+~
+People's Party|
+Народная партия|
+~
+Workers' Party|
+Рабочая партия|
+~
+Social Democratic Party|
+Социал-демократическая партия|
+~
+Liberal Party|
+Либеральная партия|
+~
+Unity Party|
+Партия единства|
+~
+Conservative Party|
+Консервативная партия|
+~
+People's National Party|
+Народная национальная партия|
+~
+Liberal Democratic Party|
+Либерально-демократическая партия|
+~
+Republican Party|
+Республиканская партия|
+~
+Democratic Party|
+Демократическая партия|
+~
+MEMBERS OF THE PARTY EXECUTIVE|
+ЧЛЕНЫ АДМИНИСТРАЦИИ ПАРТИИ|
+~
+Support Rating|
+Рейтинг поддержки|
+~
+Relocate|
+Переезд|
+~
+Select a city to relocate|
+Выберите город для переезда|
+~
+Nation|
+Нация|
+~
+Nation Graphs|
+Нация графики|
+~
+Ranking - GDP per capita|
+Рейт. - ВВП на душу нас.|
+~
+Ranking - GDP Growth|
+Рейтинг - рост ВВП|
+~
+Nation Score|
+Счёт нации|
+~
+GDP per capita|
+ВВП на душу населения|
+~
+YOUR NATION'S SCORE|
+СЧЁТ ВАШЕЙ НАЦИИ|
+~
+Population of Your Nation|
+Население вашей нации|
+~
+Quality of Life of Your Nation|
+Кач-во жизни вашей нации|
+~
+SCORE|
+СЧЁТ|
+~
+Year|
+Год|
+~
+Highest Score|
+Наибольший счёт|
+~
+Current Score|
+Текущий счёт|
+~
+(Current Game's Difficulty Level: Very Low)|
+(Уровень сложности текущей игры: Очень низкий)|
+~
+(Current Game's Difficulty Level: Low)|
+(Уровень сложности текущей игры: Низкий)|
+~
+(Current Game's Difficulty Level: Moderate)|
+(Уровень сложности текущей игры: Средний)|
+~
+(Current Game's Difficulty Level: High)|
+(Уровень сложности текущей игры: Высокий)|
+~
+(Current Game's Difficulty Level: Very High)|
+(Уровень сложности текущей игры: Очень высокий)|
+~
+10th year (upcoming)|
+10-й год (предстоящий)|
+~
+Your Nation's Ranking: 1|
+Рейтинг вашей нации: 1|
+~
+Your Nation's Ranking: 2|
+Рейтинг вашей нации: 2|
+~
+Your Nation's Ranking: 3|
+Рейтинг вашей нации: 3|
+~
+Your Nation's Ranking: 4|
+Рейтинг вашей нации: 4|
+~
+Your Nation's Ranking: 5|
+Рейтинг вашей нации: 5|
+~
+Your Nation's Ranking: 6|
+Рейтинг вашей нации: 6|
+~
+Your Nation's Ranking: 7|
+Рейтинг вашей нации: 7|
+~
+Your Nation's Ranking: 8|
+Рейтинг вашей нации: 8|
+~
+Your Nation's Ranking: 9|
+Рейтинг вашей нации: 9|
+~
+Your Nation's Ranking: 10|
+Рейтинг вашей нации: 10|
+~
+Your Nation's Ranking: 11|
+Рейтинг вашей нации: 1|
+~
+Your Nation's Ranking: 12|
+Рейтинг вашей нации: 12|
+~
+Your Nation's Ranking: 13|
+Рейтинг вашей нации: 13|
+~
+Your Nation's Ranking: 14|
+Рейтинг вашей нации: 14|
+~
+Your Nation's Ranking: 15|
+Рейтинг вашей нации: 15|
+~
+Your Nation's Ranking: 16|
+Рейтинг вашей нации: 16|
+~
+Your Nation's Ranking: 17|
+Рейтинг вашей нации: 17|
+~
+Your Nation's Ranking: 18|
+Рейтинг вашей нации: 18|
+~
+Your Nation's Ranking: 19|
+Рейтинг вашей нации: 19|
+~
+Your Nation's Ranking: 20|
+Рейтинг вашей нации: 20|
+~
+Your Nation's Ranking: 21|
+Рейтинг вашей нации: 21|
+~
+Your Nation's Ranking: 22|
+Рейтинг вашей нации: 22|
+~
+Your Nation's Ranking: 23|
+Рейтинг вашей нации: 23|
+~
+Your Nation's Ranking: 24|
+Рейтинг вашей нации: 24|
+~
+Your Nation's Ranking: 25|
+Рейтинг вашей нации: 25|
+~
+Your Nation's Ranking: 26|
+Рейтинг вашей нации: 26|
+~
+Your Nation's Ranking: 27|
+Рейтинг вашей нации: 27|
+~
+Your Nation's Ranking: 28|
+Рейтинг вашей нации: 28|
+~
+Your Nation's Ranking: 29|
+Рейтинг вашей нации: 29|
+~
+Your Nation's Ranking: 30|
+Рейтинг вашей нации: 30|
+~
+Your Nation's Ranking: 31|
+Рейтинг вашей нации: 31|
+~
+Your Nation's Ranking: 32|
+Рейтинг вашей нации: 32|
+~
+Your Nation's Ranking: 33|
+Рейтинг вашей нации: 33|
+~
+Your Nation's Ranking: 34|
+Рейтинг вашей нации: 34|
+~
+Your Nation's Ranking: 35|
+Рейтинг вашей нации: 35|
+~
+Your Nation's Ranking: 36|
+Рейтинг вашей нации: 36|
+~
+Your Nation's Ranking: 37|
+Рейтинг вашей нации: 37|
+~
+Your Nation's Ranking: 38|
+Рейтинг вашей нации: 38|
+~
+Your Nation's Ranking: 39|
+Рейтинг вашей нации: 39|
+~
+Your Nation's Ranking: 40|
+Рейтинг вашей нации: 40|
+~
+Your Nation's Ranking: 41|
+Рейтинг вашей нации: 41|
+~
+Your Nation's Ranking: 42|
+Рейтинг вашей нации: 42|
+~
+Your Nation's Ranking: 43|
+Рейтинг вашей нации: 43|
+~
+Your Nation's Ranking: 44|
+Рейтинг вашей нации: 44|
+~
+Your Nation's Ranking: 45|
+Рейтинг вашей нации: 45|
+~
+Your Nation's Ranking: 46|
+Рейтинг вашей нации: 46|
+~
+Your Nation's Ranking: 47|
+Рейтинг вашей нации: 47|
+~
+Your Nation's Ranking: 48|
+Рейтинг вашей нации: 48|
+~
+Your Nation's Ranking: 49|
+Рейтинг вашей нации: 49|
+~
+Your Nation's Ranking: 50|
+Рейтинг вашей нации: 50|
+~
+Your Nation's Ranking: 51|
+Рейтинг вашей нации: 51|
+~
+Your Nation's Ranking: 52|
+Рейтинг вашей нации: 52|
+~
+Your Nation's Ranking: 53|
+Рейтинг вашей нации: 53|
+~
+Your Nation's Ranking: 54|
+Рейтинг вашей нации: 54|
+~
+Your Nation's Ranking: 55|
+Рейтинг вашей нации: 55|
+~
+Your Nation's Ranking: 56|
+Рейтинг вашей нации: 56|
+~
+Your Nation's Ranking: 57|
+Рейтинг вашей нации: 57|
+~
+Your Nation's Ranking: 58|
+Рейтинг вашей нации: 58|
+~
+Your Nation's Ranking: 59|
+Рейтинг вашей нации: 59|
+~
+Your Nation's Ranking: 60|
+Рейтинг вашей нации: 60|
+~
+Your Nation's Ranking: 61|
+Рейтинг вашей нации: 61|
+~
+Your Nation's Ranking: 62|
+Рейтинг вашей нации: 62|
+~
+Your Nation's Ranking: 63|
+Рейтинг вашей нации: 63|
+~
+Your Nation's Ranking: 64|
+Рейтинг вашей нации: 64|
+~
+Your Nation's Ranking: 65|
+Рейтинг вашей нации: 65|
+~
+Your Nation's Ranking: 66|
+Рейтинг вашей нации: 66|
+~
+Your Nation's Ranking: 67|
+Рейтинг вашей нации: 67|
+~
+Your Nation's Ranking: 68|
+Рейтинг вашей нации: 68|
+~
+Your Nation's Ranking: 69|
+Рейтинг вашей нации: 69|
+~
+Your Nation's Ranking: 70|
+Рейтинг вашей нации: 70|
+~
+Your Nation's Ranking: 71|
+Рейтинг вашей нации: 71|
+~
+Your Nation's Ranking: 72|
+Рейтинг вашей нации: 72|
+~
+Your Nation's Ranking: 73|
+Рейтинг вашей нации: 73|
+~
+Your Nation's Ranking: 74|
+Рейтинг вашей нации: 74|
+~
+Your Nation's Ranking: 75|
+Рейтинг вашей нации: 75|
+~
+Your Nation's Ranking: 76|
+Рейтинг вашей нации: 76|
+~
+Your Nation's Ranking: 77|
+Рейтинг вашей нации: 77|
+~
+Your Nation's Ranking: 78|
+Рейтинг вашей нации: 78|
+~
+Your Nation's Ranking: 79|
+Рейтинг вашей нации: 79|
+~
+Your Nation's Ranking: 80|
+Рейтинг вашей нации: 80|
+~
+Your Nation's Ranking: 81|
+Рейтинг вашей нации: WTF?!|
+~
+Your Nation's Ranking: 81|
+Рейтинг вашей нации: 81|
+~
+Your Nation's Ranking: 82|
+Рейтинг вашей нации: 82|
+~
+Your Nation's Ranking: 83|
+Рейтинг вашей нации: 83|
+~
+Your Nation's Ranking: 84|
+Рейтинг вашей нации: 84|
+~
+Your Nation's Ranking: 85|
+Рейтинг вашей нации: 85|
+~
+Your Nation's Ranking: 86|
+Рейтинг вашей нации: 86|
+~
+Your Nation's Ranking: 87|
+Рейтинг вашей нации: 87|
+~
+Your Nation's Ranking: 88|
+Рейтинг вашей нации: 88|
+~
+Your Nation's Ranking: 89|
+Рейтинг вашей нации: 89|
+~
+Your Nation's Ranking: 90|
+Рейтинг вашей нации: 90|
+~
+Your Nation's Ranking: 91|
+Рейтинг вашей нации: 91|
+~
+Your Nation's Ranking: 92|
+Рейтинг вашей нации: 92|
+~
+Your Nation's Ranking: 93|
+Рейтинг вашей нации: 93|
+~
+Your Nation's Ranking: 94|
+Рейтинг вашей нации: 94|
+~
+Your Nation's Ranking: 95|
+Рейтинг вашей нации: 95|
+~
+Your Nation's Ranking: 96|
+Рейтинг вашей нации: 96|
+~
+Your Nation's Ranking: 97|
+Рейтинг вашей нации: 97|
+~
+Your Nation's Ranking: 98|
+Рейтинг вашей нации: 98|
+~
+Your Nation's Ranking: 99|
+Рейтинг вашей нации: 99|
+~
+Your Nation's Ranking: 100|
+Рейтинг вашей нации: 100|
+~
+Your Nation's Ranking: 101|
+Рейтинг вашей нации: 101|
+~
+Your Nation's Ranking: 102|
+Рейтинг вашей нации: 102|
+~
+Your Nation's Ranking: 103|
+Рейтинг вашей нации: 103|
+~
+Your Nation's Ranking: 104|
+Рейтинг вашей нации: 104|
+~
+Your Nation's Ranking: 105|
+Рейтинг вашей нации: 105|
+~
+Your Nation's Ranking: 106|
+Рейтинг вашей нации: 106|
+~
+Your Nation's Ranking: 107|
+Рейтинг вашей нации: 107|
+~
+Your Nation's Ranking: 108|
+Рейтинг вашей нации: 108|
+~
+Your Nation's Ranking: 109|
+Рейтинг вашей нации: 109|
+~
+Your Nation's Ranking: 110|
+Рейтинг вашей нации: 110|
+~
+Your Nation's Ranking: 111|
+Рейтинг вашей нации: 111|
+~
+Your Nation's Ranking: 112|
+Рейтинг вашей нации: 112|
+~
+Your Nation's Ranking: 113|
+Рейтинг вашей нации: 113|
+~
+Your Nation's Ranking: 114|
+Рейтинг вашей нации: 114|
+~
+Your Nation's Ranking: 115|
+Рейтинг вашей нации: 115|
+~
+Your Nation's Ranking: 116|
+Рейтинг вашей нации: 116|
+~
+Your Nation's Ranking: 117|
+Рейтинг вашей нации: 117|
+~
+Your Nation's Ranking: 118|
+Рейтинг вашей нации: 118|
+~
+Your Nation's Ranking: 119|
+Рейтинг вашей нации: 119|
+~
+Your Nation's Ranking: 120|
+Рейтинг вашей нации: 120|
+~
+Your Nation's Ranking: 121|
+Рейтинг вашей нации: 121|
+~
+Your Nation's Ranking: 122|
+Рейтинг вашей нации: 122|
+~
+Your Nation's Ranking: 123|
+Рейтинг вашей нации: 123|
+~
+Your Nation's Ranking: 124|
+Рейтинг вашей нации: 124|
+~
+Your Nation's Ranking: 125|
+Рейтинг вашей нации: 125|
+~
+Your Nation's Ranking: 126|
+Рейтинг вашей нации: 126|
+~
+Your Nation's Ranking: 127|
+Рейтинг вашей нации: 127|
+~
+Your Nation's Ranking: 128|
+Рейтинг вашей нации: 128|
+~
+Your Nation's Ranking: 129|
+Рейтинг вашей нации: 129|
+~
+Your Nation's Ranking: 130|
+Рейтинг вашей нации: 130|
+~
+Your Nation's Ranking: 131|
+Рейтинг вашей нации: 131|
+~
+Your Nation's Ranking: 132|
+Рейтинг вашей нации: 132|
+~
+Your Nation's Ranking: 133|
+Рейтинг вашей нации: 133|
+~
+Your Nation's Ranking: 134|
+Рейтинг вашей нации: 134|
+~
+Your Nation's Ranking: 135|
+Рейтинг вашей нации: 135|
+~
+Your Nation's Ranking: 136|
+Рейтинг вашей нации: 136|
+~
+Your Nation's Ranking: 137|
+Рейтинг вашей нации: 137|
+~
+Your Nation's Ranking: 138|
+Рейтинг вашей нации: 138|
+~
+Your Nation's Ranking: 139|
+Рейтинг вашей нации: 139|
+~
+Your Nation's Ranking: 140|
+Рейтинг вашей нации: 140|
+~
+Your Nation's Ranking: 141|
+Рейтинг вашей нации: 141|
+~
+Your Nation's Ranking: 142|
+Рейтинг вашей нации: 142|
+~
+Your Nation's Ranking: 143|
+Рейтинг вашей нации: 143|
+~
+Your Nation's Ranking: 144|
+Рейтинг вашей нации: 144|
+~
+Your Nation's Ranking: 145|
+Рейтинг вашей нации: 145|
+~
+Your Nation's Ranking: 146|
+Рейтинг вашей нации: 146|
+~
+Your Nation's Ranking: 147|
+Рейтинг вашей нации: 147|
+~
+Your Nation's Ranking: 148|
+Рейтинг вашей нации: 148|
+~
+Your Nation's Ranking: 149|
+Рейтинг вашей нации: 149|
+~
+Your Nation's Ranking: 150|
+Рейтинг вашей нации: 150|
 ~
