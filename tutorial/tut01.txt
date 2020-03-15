@@ -1,13 +1,13 @@
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
-Hide=Minimap and Filter 
+Hide=Minimap and Filter
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-NIL 
+NIL
 
 [ACTION]
 Hide=Preview
@@ -15,7 +15,7 @@ Hide=Preview
 //-------------------------------------------------------------------//
 
 [TEXT]
-You have graduated with an MBA from a renowned business school. Can you apply what you have learned into running a business in the real world? Now it is your chance to prove your ability!^^Click the flashing Next icon to continue. Alternatively, you may press the ~Enter~ key to continue whenever the Next icon is flashing. 
+Вы закончили обучение на мастера делового администрирования в известной бизнес-школе. Можете ли вы применить полученные знания для ведения бизнеса в реальном мире? Теперь это ваш шанс доказать свои способности!^^Нажмите мигающий значок ~Далее~, чтобы продолжить. В качестве альтернативы, вы можете нажать клавишу ~Enter~, чтобы продолжить всякий раз, когда мигает значок ~Далее~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -28,7 +28,7 @@ Center on firm=My Department Store
 //-------------------------------------------------------------------//
 
 [TEXT]
-You have been assigned to run this department store. Now left click it to view its detail. 
+Вам поручено управлять этим универмагом. Теперь щелкните левой кнопкой мыши, чтобы просмотреть его детали.
 
 [POS]
 Extend Text Box=32,420,300,0
@@ -40,7 +40,7 @@ Current Firm=My Department Store
 //-------------------------------------------------------------------//
 
 [TEXT]
-Cick the ~Add Product icon~ now. 
+Нажмите значок ~Добавить продукт~ сейчас.
 
 [POS]
 Text Box=32,420,300,0
@@ -50,7 +50,7 @@ Pointer=60,120,165,230
 //-------------------------------------------------------------------//
 
 [TEXT]
-This is the ~Select a Supplier~ window. It lists all the products currently available within the game. You may use the three filters at the top of the window to help you find the products you want.^^You intend to purchase products from the local seaports, so click the ~Suppliers~ filter box, as indicated.
+Это окно ~Выбор поставщика~. В нем перечислены все продукты, доступные в настоящее время в игре. Вы можете использовать три фильтра в верхней части окна, чтобы помочь вам найти нужные продукты.^^Вы собираетесь покупать продукты в местных морских портах, поэтому установите флажок фильтра ~Поставщики~, как указано.
 
 [POS]
 Text Box=32,270,300,0
@@ -60,7 +60,7 @@ Window=Select Supplier
 //-------------------------------------------------------------------//
 
 [TEXT]
-Double-click ~Seaport~ from the drop-down list.
+Дважды щелкните значок ~Морской порт~ в раскрывщемся списке.
 
 [POS]
 Text Box=32,270,300,0
@@ -68,12 +68,12 @@ Pointer=202,85,348,102
 Window=Select Supplier
 
 [CONDITION]
-Interface Select=Select Supplier, Seaport 
+Interface Select=Select Supplier, Seaport
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-The window updates to show all products available from the local seaports. At this stage you don't need to concern yourself with the information provided with each product (freight costs, ratings, brand and other information will explained in a later tutorial).^^For now, let's just purchase the first product on the list to get things moving. Click the ~SELECT~ button now.^^
+В этом окне отображаются все продукты, доступные в местных морских портах. На данном этапе вам не нужно беспокоиться о информации, предоставляемой с каждым продуктом (расходы на перевозку, рейтинги, бренд и другая информация будет объяснена в последующем руководстве).^^А пока давайте просто купим первый продукт в списке, чтобы все сдвинулось с мертвой точки. Нажмите кнопку ~ВЫБРАТЬ~ сейчас.^^
 
 [POS]
 Text Box=32,270,300,0
@@ -91,7 +91,7 @@ Fast forward days=5
 //-------------------------------------------------------------------//
 
 [TEXT]
-You are now back in your department store. Your store automatically purchases the product you selected from the seaport and makes it available for sale to your customers.^^Look at the left of the product image. See the vertical yellow and orange bars? The ~yellow SUPPLY bar~ indicates the quantity of the product you have in store and the ~orange DEMAND bar~ measures the consumer demand for that product.
+Теперь вы вернулись в свой универмаг. Ваш магазин автоматически покупает выбранный вами продукт в морском порту и делает его доступным для продажи вашим клиентам.^^Посмотрите на левую часть изображения продукта. Видите вертикальные желтые и оранжевые полосы? ~Желтая полоска ПОСТАВКИ~ указывает на количество товара, которое вы имеете в магазине, а ~оранжевая полоса СПРОС~ указыват потребительский спрос на этот продукт.
 
 [POS]
 Text Box=40,270,350,0
@@ -101,13 +101,13 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Each retail store has four product slots. Increase the variety of products in your store and make use of the available slots.^^Repeat what you did just now. Click the ~Add Product icon~, then choose ~Seaport~ from the supplier list, and select a product to add to your store.^^This time, make sure that you select a different product than the one already on sale in your store. 
+В каждом розничном магазине есть четыре товарных слота. Увеличьте ассортимент товаров в вашем магазине и используйте доступные слоты.^^Повторите то, что вы только что делали. Щелкните значок ~ Добавить продукт~, затем выберите ~морской порт~ из списка поставщиков и выберите продукт для добавления в ваш магазин.^^Убедитесь, что вы выбрали продукт, отличный от того, который уже продается в вашем магазине.
 
 [POS]
 Text Box=20,270,280,0
 
 [CONDITION]
-Firm product count=My Department Store, 2 
+Firm product count=My Department Store, 2
 
 //-------------------------------------------------------------------//
 
@@ -115,12 +115,12 @@ Firm product count=My Department Store, 2
 NIL
 
 [ACTION]
-Fast forward days=5 
+Fast forward days=5
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Well done! Keep on adding more products to your store. Besides clicking the ~Select~ button, you may simply ~double-click~ a product on the list to select it.^^When you are ready to move on, ~RIGHT clicking anywhere~ on the screen to exit your store and return to the city view.
+Молодец! Продолжайте добавлять новые продукты в свой магазин. Помимо нажатия кнопки ~Выбрать~, вы можете просто ~дважды щелкнуть~ продукт в списке, чтобы выбрать его.^^Когда вы будете готовы двигаться дальше, ~щелкните правой кнопкой мыши в любом месте~ на экране, чтобы выйти из магазина и вернуться к виду города.
 
 [POS]
 Text Box=10,270,220,0
@@ -131,50 +131,50 @@ Active Interface=City View
 //-------------------------------------------------------------------//
 
 [TEXT]
-Good. We are now in the city view. Let's explore.^^See the toolbar at the bottom of the screen?
+Хорошо. Теперь город находится в поле зрения. Давайте исследуем.^^Видите панель инструментов в нижней части экрана?
 
 [POS]
 Flex Text Box=80,550,400,0
 Pointer=30,0,600,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-It shows the amount of cash your corporation currently has and its operating profit in the past 12 months. 
+Он показывает количество наличных денег, которыми располагает ваша корпорация в настоящее время, и ее операционную прибыль за последние 12 месяцев.
 
 [POS]
 Flex Text Box=80,550,400,0
 Pointer=262,0,580,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-You can see the current game date here.^^Note that the game runs in real time.You may change the game speed using the shortcut keys ~'1' (slowest) to '5' (fastest)~.^^You may also pause the game by pressing the ~key '0'~.  
+Вы можете посмотреть текущую дату игры здесь.^^Обратите внимание, что игра работает в режиме реального времени. Вы можете изменить скорость игры, используя сочетания клавиш ~ '1' (самый медленный) на '5' (самый быстрый)~.^^Вы также можете приостановить игру, нажав клавишу ~'0'~.
 
 [POS]
 Flex Text Box=80,500,400,0
 Pointer=680,0,764,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-There is a row of icons on the toolbar. Let's click on the ~Mini Map~ icon now. 
+На панели инструментов есть ряд значков. Теперь давайте щелкнем по значку ~Мини-Карта~.
 
 [POS]
 Flex Text Box=60,550,300,0
 Pointer=65,6,94,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-The mini map shows the entire city. Along its top border you see the ~City Select icon~ (represented by a down arrow), which is for showing a list of cities in the current game.^^The ~left and right arrow icons~ next to the city name allow you to cycle through the previous or next city. 
+На мини-карте показан весь город. Вдоль его верхней границы вы видите значок ~Выбор города~ (представлен стрелкой вниз), который предназначен для отображения списка городов в текущей игре.^^Значки со стрелками ~ влево и вправо ~ рядом с названием города позволяют переключаться между предыдущим или следующим городом.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -185,7 +185,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The animated rectangle frame on the mini map represents the area displayed in the city view. 
+Анимированный прямоугольник на мини-карте представляет область, отображаемую на виде города.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -195,7 +195,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-There are several icons around the mini map for switching to different map modes. 
+Вокруг мини-карты имеется несколько значков для переключения на различные режимы карты.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -205,7 +205,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-The first icon, the one that looks like a building, toggles the ~Ownership~ mode. On the mini map, the white areas represent the city's buildings that are not owned by corporations, like houses and parks.^^Colored areas represent corporation owned buildings and are shown in the corporate color.^^~Seaports~ are represented by the letter 'C' or 'I' - ~'C' for Consumer products~ (like televisions or jeans) and ~'I' for industrial products~ (like coal or steel). 
+Первая иконка, похожая на здание, переключает режим ~Собственность~. На мини-карте белые области представляют здания города, которые не принадлежат корпорациям, такие как дома и парки.^^Цветные области представляют здания, принадлежащие корпорации, и отображаются корпоративным цветом.^^~Морские порты~ представлены буквой 'C' или 'I' - ~'C' для потребительских продуктов~ (как телевизоры или джинсы) и ~'I' для промышленных продуктов~ (как уголь или сталь).
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -216,7 +216,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the ~Land Value~ icon to change to that mode.
+Теперь щелкните значок ~Стоимость земли~, чтобы перейти в этот режим.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -227,7 +227,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-The mini map display changes to show Land Value data. ~The darker the color, the more valuable the land.~ Building in light areas may be expensive but it may provide your stores with a richer clientele willing to pay higher prices.
+Отображение мини-карты изменяется на отображение данных стоимости земли. ~Чем темнее цвет, тем ценнее земля.~ Строительство в темных районах может быть дорогим, но оно может предоставить вашим магазинам более богатую клиентуру, готовую платить более высокие цены.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -237,7 +237,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now click the ~Profit~ icon to change to that mode.
+Теперь щелкните значок ~Прибыль~, чтобы перейти в этот режим.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -247,7 +247,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-In this mode, buildings represented by ~green dots are profitable~ whereas buildings shown in ~red dots are losing money~. The darker the color, the greater the profit or loss. The white colored buildings on display are government owned and as such do not show a profit or a loss.
+В этом режиме здания, представленные ~зелеными точками, прибыльны~, в то время как здания, показанные ~красными точками, теряют деньги~. Чем темнее цвет, тем больше прибыль или убыток. Здания белого цвета, выставленные на обозрение, принадлежат государству и поэтому не показывают прибыли или убытка.
 
 [POS]
 Extend Text Box=450,50,300,0
@@ -257,7 +257,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now we are going to have a quick look at the ~Building Filter~ interface.^^The filter interface has five selection buttons labelled ~Firm~, ~Corp.~, ~This City~, ~My Firms~ and ~Product~.^^When any of these filters are enabled, only firms within the filter will be shown on the mini map at ~Profit~ or ~Ownership~ mode. 
+Теперь мы рассмотрим интерфейс ~Строительный фильтр~.^^Интерфейс фильтра имеет пять кнопок выбора, помеченных ~Фирма~, ~Корпорация.~, ~Этот город~, ~Мои фирмы~ и ~Продукт~.^^Когда любой из этих фильтров включен, только фирмы внутри фильтра будут отображаться на мини-карте в режиме ~Прибыль~ или ~Владение~.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -269,7 +269,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-To browse the firms within the filter, use the up and down buttons. 
+Для просмотра фирм внутри фильтра используйте кнопки вверх и вниз.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -280,7 +280,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~My Firms~ button and the mini map display changes to show only ambient buildings and the firms you own. 
+Нажмите на ~Мои фирмы~ кнопку и мини-дисплей карты меняется, чтобы показать только окружающие здания и фирмы, которыми вы владеете.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -290,7 +290,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-As your corporation currently only has one firm - your department store, only one dot in your corporate color is shown. You can cancel this mode by clicking the ~My Firms~ button again. But for now keep it active. 
+Так как в вашей корпорации на данный момент есть только одна фирма - ваш универмаг, то в вашем корпоративном цвете отображается только одна точка. Вы можете отменить этот режим, снова нажав на кнопку ~Мои фирмы~. Но пока держите его активным.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -303,7 +303,7 @@ Center on firm=My Department Store, Select
 //-------------------------------------------------------------------//
 
 [TEXT]
-Did you wonder which seaports are supplying products to your department store? Well now it is your chance to find that out. 
+Вы задавались вопросом, какие морские порты поставляют продукты в ваш универмаг? Ну, теперь это ваш шанс выяснить это.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -313,7 +313,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-With the display still only showing your department store (as a colored square), click the ~Business Relationship~ mode icon.
+Если на экране отображается только Ваш универмаг (в виде цветного квадрата), нажмите на значок режима ~Бизнес-отношения~.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -323,7 +323,7 @@ Window=Minimap
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now the display is updated to show from which seaports your department store is receiving the products that you are selling. 
+Теперь дисплей обновляется, чтобы показать, из каких морских портов ваш универмаг получает продукты, которые вы продаете.
 
 [POS]
 Extend Text Box=450,100,300,0
@@ -332,19 +332,19 @@ Next Arrow=Yes
 
 //-------------------------------------------------------------------//
 
-[TEXT] 
-While we were exploring the interfaces, your department store was already generating revenue.^^Take a look at the ~cash and profit figures~ on the toolbar. Do you have enough money to build a second department store yet?
+[TEXT]
+Пока мы изучали интерфейс, ваш универмаг уже приносил доход.^^Взгляните на цифры "Счёт и Доход" на панели инструментов. Хватит ли у вас денег, чтобы построить второй универмаг?
 
 [POS]
 Flex Text Box=300,280,400,0
 Pointer=267, 10, 575,24
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 Next Arrow=Yes
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-A new department store costs $1,000,000 to build, plus the cost of the land, and a further $100,000 per month to operate. It seems within your budget, so let's proceed. 
+Строительство нового универмага обходится в 1 000 000 долларов плюс стоимость земли и еще 100 000 долларов в месяц на эксплуатацию. Похоже, это в пределах вашего бюджета, так что давайте продолжим.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -353,7 +353,7 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~Build Menu~ icon on the ~Game Tools Menu~ at the top-left of the screen.
+Нажмите на значок меню ~Меню строительства~ в меню ~ Игровые инструменты~ в левом верхнем углу экрана.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -362,7 +362,7 @@ Pointer=31,30,79,58
 //-------------------------------------------------------------------//
 
 [TEXT]
-Now choose ~Retail Store~ from the menu.
+Теперь выберите в меню пункт ~Магазин~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -371,7 +371,7 @@ Pointer=52,61,235,75
 //-------------------------------------------------------------------//
 
 [TEXT]
-And choose ~Department Store~.
+И выберите ~Универмаг~.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -380,19 +380,19 @@ Pointer=282,52,450,100
 //-------------------------------------------------------------------//
 
 [TEXT]
-Your cursor now highlights a square on the city. Try to find a location close to residential buildings to benefit from high customer traffic.^^If the location is shaded in ~yellow~, it means a valid location for building your department store.^^When you have chosen a location, left click and the department store will be built. 
+Теперь курсор выделяет квадрат на карте города. Постарайтесь найти место рядом с жилыми домами, чтобы воспользоваться высоким трафиком клиентов.^^Если место окрашено в ~желтый цвет~, это означает допустимое место для строительства вашего универмага.^^Когда вы выбрали место, щелкните левой кнопкой мыши, и универмаг будет построен.
 
 [POS]
 Flex Text Box=400,16,400,0
 Allow=Detect Other
 
 [CONDITION]
-Firm Build Count=Department Store, 2 
+Firm Build Count=Department Store, 2
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Congratulations! You have just expanded your business! You now have to set up products in your new department store. To so, simply repeat the steps that you just did for setting up your first department store.
+Поздравляю! Вы только что расширили свой бизнес! Теперь вам нужно настроить продукты в вашем новом универмаге. Для этого просто повторите шаги, которые вы делали ранее для создания вашего первого универмага.
 
 [POS]
 Flex Text Box=300,280,400,0
@@ -401,17 +401,17 @@ Next Arrow=Yes
 //-------------------------------------------------------------------//
 
 [TEXT]
-You win this game when your company's annual revenue reaches $20 million. To see the ~goal report~, click the ~Information Center~ icon on the menu bar at the bottom of the screen. 
+Вы выигрываете эту игру, когда годовой доход вашей компании достигает 20 миллионов долларов. Чтобы просмотреть отчет о цели, щелкните значок "Информационный центр" в строке меню в нижней части экрана.
 
 [POS]
 Extend Text Box=120,500,450,0
 Pointer=156,6,183,30
-Window=Bottom Toolbar 
+Window=Bottom Toolbar
 
 //-------------------------------------------------------------------//
 
 [TEXT]
-Click the ~Goal~ option.
+Выберите параметр ~Цель~.
 
 [POS]
 Flex Text Box=150,280,250,0
@@ -420,7 +420,7 @@ Pointer=38,68,122,78
 //-------------------------------------------------------------------//
 
 [TEXT]
-Well done! You have completed this tutorial. You must apply what you have just learned into running your company. Now go and add products to your new department store and grow your business! 
+Отлично! Это учебное пособие завершено. Вы должны применить то, чему только что научились, управляйте вашей компанией. Теперь добавьте продукты в свой новый универмаг и развивайте свой бизнес!
 
 [POS]
 Flex Text Box=150,280,400,0

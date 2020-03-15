@@ -1,6 +1,6 @@
 [HEADER]
 Title=7. Research and Development
-Description=To stay competitive in a fast-changing market, you must constantly invest into improving the quality of your products.^^In this tutorial, you will set up a Research and Development (R&D) Center and start R&D projects to invent more advanced technology for your products.^^The competition will be fierce, but your R&D investment should pay off and give you a competitive edge against your rivals. 
+Description=Чтобы оставаться конкурентоспособными на быстро меняющемся рынке, вы должны постоянно инвестировать в улучшение качества своей продукции.^^В этом обучении вы создадите Центр Исследований и Разработок (НИИ) и начнете проекты по разработке новых передовых технологий для ваших продуктов.^^Конкуренция будет жесткой, но ваши инвестиции в НИОКР должны окупиться и дать вам конкурентное преимущество перед вашими конкурентами.
 
 //------------------------------------------------------------------------------------------------//
 
@@ -15,7 +15,7 @@ Random Events=Never
 
 Game Starting Year=1900
 // Game Starting Year=<1900 to 2100>
-// You may set the game starting year to any year between 1900 and 2100.  
+// You may set the game starting year to any year between 1900 and 2100.
 
 Retail Store Type=Many
 // Retail Store Type=<One, Many>
@@ -30,7 +30,7 @@ Macro Economy Realism=Low
 // Macro Economy Realism=<Low, High>
 
 Inflation=Off
-// Inflation=<Off, On, Inverse> 
+// Inflation=<Off, On, Inverse>
 
 
 //------------------------------------------------------------------------------------------------//
@@ -39,18 +39,18 @@ Inflation=Off
 
 City=Frankfurt
 City=Helsinki
-City=Seoul 
+City=Seoul
 
 //------------------------------------------------------------------------------------------------//
 
 [COMPETITORS]
 Number of Competitors=3
 // Number of Competitors=<1 to 30>
-// You may set the number of competitors to any number between 1 and 30. 
+// You may set the number of competitors to any number between 1 and 30.
 
 Competitor Start-up Capital=Low
 // Competitor Start-up Capital=<Very Low, Low, Moderate, High, Very High>
- 
+
 Competitor Aggressiveness=Low
 // Competitor Aggressiveness=<Very Low, Low, Moderate, High, Very High>
 
@@ -75,7 +75,7 @@ Consumer Goods Seaports=3
 Industrial Goods Seaports=1
 // Industrial Goods Seaports per City=<0-4>
 
-// Please note that you may create a game up with no seaport using a game script. But the AI companies�� performances will suffer and 
+// Please note that you may create a game up with no seaport using a game script. But the AI companies�� performances will suffer and
 // this should only be used if you intend to create a game scenario with such characteristics.
 
 Constant Import Supply=Yes
@@ -107,7 +107,7 @@ Firm, Sports Facilities
 
 [MAIN GOAL]
 Goal Title=Tutorial Goal
-Goal Description=To win this game, your company must achieve an annual revenue of $150 million and an annual profit of $15 million.
+Goal Description=Чтобы выиграть эту игру, ваша компания должна достичь годовой выручки в размере 150 миллионов долларов и годовой прибыли в размере 15 миллионов долларов.
 
 [MAIN GOAL PRODUCTS]
 Home Appliances
@@ -115,7 +115,7 @@ Home Appliances
 [MAIN GOAL VALUES]
 Player Company Annual Profit=20
 
-[MAIN GOAL REWARDS] 
+[MAIN GOAL REWARDS]
 Score change=250
 
 //------------------------------------------------------------------------------------------------//
